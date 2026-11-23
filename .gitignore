@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+frontend/node_modules/
+frontend/dist/
+.DS_Store
+*.log
+.env
+.jupyter/
+224138H_FoodLens.zip
+learning/

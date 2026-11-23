@@ -1,0 +1,259 @@
+{
+  "title": "Essential Food Price Movement Prediction",
+  "currency": "LKR",
+  "unit": "kg",
+  "source": "Department of Census and Statistics, Sri Lanka",
+  "source_url": "https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation/RetailPrices",
+  "raw_sha256": "205ee0e28165f72c842a9c7874a1e63673e1dbec6db175c846f21f6cfd6436d1",
+  "raw_rows": 6495,
+  "reports_downloaded": 325,
+  "reports_unavailable": 93,
+  "feature_rows": 5851,
+  "train_rows": 5031,
+  "test_rows": 820,
+  "train_start": "2020-02-22",
+  "train_end": "2025-12-22",
+  "test_start": "2026-01-01",
+  "test_end": "2026-11-01",
+  "raw_start": "2019-12-22",
+  "raw_end": "2026-11-01",
+  "latest_period": "2026-11-W1",
+  "forecast_trained_through": "2026-11-W1",
+  "markets": [
+    "Colombo district"
+  ],
+  "commodities": [
+    "Brinjal",
+    "Cabbage",
+    "Carrots",
+    "Garlic",
+    "Green beans",
+    "Green chillies",
+    "Imported big onions",
+    "Imported potatoes",
+    "Leeks",
+    "Lentils",
+    "Local potatoes",
+    "Okra",
+    "Red onions",
+    "Red pumpkin",
+    "Red rice",
+    "Samba rice",
+    "Snake gourd",
+    "Sugar",
+    "Tomatoes",
+    "Wheat flour"
+  ],
+  "features": [
+    "lag_1",
+    "lag_2",
+    "lag_4",
+    "lag_8",
+    "mean_4",
+    "std_4",
+    "change_1",
+    "trend_4",
+    "season_sin",
+    "season_cos",
+    "commodity"
+  ],
+  "folds": [
+    {
+      "train_end": "2022-02-W3",
+      "validation_start": "2022-02-W4",
+      "validation_end": "2023-08-W4",
+      "rows": 1135
+    },
+    {
+      "train_end": "2023-08-W4",
+      "validation_start": "2023-09-W1",
+      "validation_end": "2024-10-W4",
+      "rows": 1114
+    },
+    {
+      "train_end": "2024-10-W4",
+      "validation_start": "2024-11-W1",
+      "validation_end": "2025-12-W4",
+      "rows": 1102
+    }
+  ],
+  "future_folds": [
+    {
+      "train_end": "2022-08-W3",
+      "validation_start": "2022-08-W4",
+      "validation_end": "2024-02-W3",
+      "rows": 1320
+    },
+    {
+      "train_end": "2024-02-W3",
+      "validation_start": "2024-02-W4",
+      "validation_end": "2025-06-W4",
+      "rows": 1276
+    },
+    {
+      "train_end": "2025-06-W4",
+      "validation_start": "2025-07-W1",
+      "validation_end": "2026-11-W1",
+      "rows": 1300
+    }
+  ],
+  "fit_seconds": {
+    "bagging": 0.722,
+    "boosting": 0.061,
+    "ridge": 0.004,
+    "stacking_folds": 1.428
+  },
+  "metrics": [
+    {
+      "key": "bagging",
+      "name": "Random forest",
+      "mae": 19.047683029195507,
+      "rmse": 38.802000992627164,
+      "mape": 3.9767555384455977,
+      "r2": 0.958402842126306,
+      "direction_accuracy": 54.87804878048781,
+      "bias": -1.3793605623328913,
+      "n": 820
+    },
+    {
+      "key": "boosting",
+      "name": "XGBoost",
+      "mae": 18.766279581964014,
+      "rmse": 38.95361309948149,
+      "mape": 3.9186811674828923,
+      "r2": 0.9580771396562792,
+      "direction_accuracy": 54.51219512195122,
+      "bias": -1.641960505735583,
+      "n": 820
+    },
+    {
+      "key": "stacking",
+      "name": "Temporal stacking",
+      "mae": 18.75225032107912,
+      "rmse": 38.92733982578895,
+      "mape": 4.004738620712678,
+      "r2": 0.9581336725036924,
+      "direction_accuracy": 54.63414634146342,
+      "bias": 2.844210006276224,
+      "n": 820
+    },
+    {
+      "key": "baseline",
+      "name": "Previous report",
+      "mae": 18.995060975609757,
+      "rmse": 42.31018353027854,
+      "mape": 3.925883808109039,
+      "r2": 0.9505410113034192,
+      "direction_accuracy": 0.0,
+      "bias": 0.9696707317073167,
+      "n": 820
+    }
+  ],
+  "meta_coefficients": [
+    0.17894094490034768,
+    0.2975153178987233,
+    0.31306846885493245
+  ],
+  "feature_factors": {
+    "bagging": [
+      {
+        "feature": "change_1",
+        "increase_in_return_mae": 0.002592030139857829
+      },
+      {
+        "feature": "commodity",
+        "increase_in_return_mae": 0.0015547269658395372
+      },
+      {
+        "feature": "trend_4",
+        "increase_in_return_mae": 0.0009512411603211322
+      },
+      {
+        "feature": "lag_2",
+        "increase_in_return_mae": 0.0006450387564427423
+      },
+      {
+        "feature": "season_sin",
+        "increase_in_return_mae": 0.0006415667531596605
+      },
+      {
+        "feature": "std_4",
+        "increase_in_return_mae": 0.0006021156785979906
+      },
+      {
+        "feature": "mean_4",
+        "increase_in_return_mae": 0.0002453630312138286
+      },
+      {
+        "feature": "lag_8",
+        "increase_in_return_mae": 0.00010574099863189014
+      },
+      {
+        "feature": "lag_1",
+        "increase_in_return_mae": 1.0999535203134089e-05
+      },
+      {
+        "feature": "lag_4",
+        "increase_in_return_mae": -2.172824346452958e-05
+      },
+      {
+        "feature": "season_cos",
+        "increase_in_return_mae": -0.00010620010734401404
+      }
+    ],
+    "boosting": [
+      {
+        "feature": "change_1",
+        "increase_in_return_mae": 0.0018704269411438333
+      },
+      {
+        "feature": "commodity",
+        "increase_in_return_mae": 0.0014449011984935926
+      },
+      {
+        "feature": "season_sin",
+        "increase_in_return_mae": 0.0010388086123184134
+      },
+      {
+        "feature": "mean_4",
+        "increase_in_return_mae": 0.0003788343383764904
+      },
+      {
+        "feature": "std_4",
+        "increase_in_return_mae": 0.00023559593442084673
+      },
+      {
+        "feature": "lag_1",
+        "increase_in_return_mae": 7.801258375011305e-05
+      },
+      {
+        "feature": "lag_4",
+        "increase_in_return_mae": 5.2725876066077315e-05
+      },
+      {
+        "feature": "lag_8",
+        "increase_in_return_mae": 3.268920852997348e-05
+      },
+      {
+        "feature": "lag_2",
+        "increase_in_return_mae": 2.163512630689914e-05
+      },
+      {
+        "feature": "trend_4",
+        "increase_in_return_mae": -3.2992358754542483e-05
+      },
+      {
+        "feature": "season_cos",
+        "increase_in_return_mae": -0.0001865119383913811
+      }
+    ]
+  },
+  "protocol": "Train through 2025; frozen one-report-ahead comparisons on recorded 2026 prices. Future forecasts use a separate refit on all available observations.",
+  "limitations": [
+    "Colombo district market averages only; not district-by-district or national prices.",
+    "DCS uses four reporting periods per month. Dates encode W1/W2/W3/W4 as days 1/8/15/22, not exact collection dates.",
+    "Unavailable releases and missing prices remain missing; incomplete lag rows are excluded.",
+    "Historical source revisions and extraction errors remain possible; PDFs and page provenance are included.",
+    "Forecasts are recursive, have no calibrated intervals, and cannot anticipate unmodeled weather, exchange rates, supply or policy shocks."
+  ]
+}

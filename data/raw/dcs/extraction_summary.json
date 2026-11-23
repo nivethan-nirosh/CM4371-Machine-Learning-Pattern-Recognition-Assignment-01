@@ -1,0 +1,29 @@
+{
+  "pdfs": 325,
+  "rows": 6495,
+  "first_period": "2019-12-W4",
+  "last_period": "2026-11-W1",
+  "foods": {
+    "Brinjal": 325,
+    "Cabbage": 325,
+    "Carrots": 325,
+    "Garlic": 324,
+    "Green beans": 325,
+    "Green chillies": 325,
+    "Imported big onions": 323,
+    "Imported potatoes": 325,
+    "Leeks": 325,
+    "Lentils": 324,
+    "Local potatoes": 325,
+    "Okra": 325,
+    "Red onions": 324,
+    "Red pumpkin": 325,
+    "Red rice": 325,
+    "Samba rice": 325,
+    "Snake gourd": 325,
+    "Sugar": 325,
+    "Tomatoes": 325,
+    "Wheat flour": 325
+  },
+  "parse_failures": []
+}

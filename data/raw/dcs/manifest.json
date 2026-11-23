@@ -1,0 +1,3164 @@
+{
+  "index_url": "https://www.statistics.gov.lk/InflationAndPrices/StaticalInformation/RetailPrices",
+  "retrieved": "2026-11-23",
+  "reports": [
+    {
+      "report": "DCSB-WRP-2018-01-W1",
+      "label": "1st week January 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-01-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-01-W2",
+      "label": "2nd week January 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-01-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-01-W3",
+      "label": "3rd week January 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-01-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-01-W4",
+      "label": "4th week January 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-01-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-02-W1",
+      "label": "1st week February 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-02-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-02-W2",
+      "label": "2nd week February 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-02-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-02-W3",
+      "label": "3rd week February 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-02-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-02-W4",
+      "label": "4th week February 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-02-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-03-W1",
+      "label": "1st week March 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-03-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-03-W2",
+      "label": "2nd week March 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-03-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-03-W3",
+      "label": "3rd week March 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-03-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-03-W4",
+      "label": "4th week March 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-03-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-04-W1",
+      "label": "1st week April 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-04-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-04-W2",
+      "label": "2nd week April 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-04-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-04-W3",
+      "label": "3rd week April 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-04-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-04-W4",
+      "label": "4th week April 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-04-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-05-W1",
+      "label": "1st week May 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-05-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-05-W2",
+      "label": "2nd week May 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-05-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-05-W3",
+      "label": "3rd week May 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-05-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-05-W4",
+      "label": "4th week May 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-05-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-06-W1",
+      "label": "1st week June 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-06-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-06-W2",
+      "label": "2nd week June 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-06-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-06-W3",
+      "label": "3rd week June 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-06-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-06-W4",
+      "label": "4th week June 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-06-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-07-W1",
+      "label": "1st week July 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-07-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-07-W2",
+      "label": "2nd week July 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-07-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-07-W3",
+      "label": "3rd week July 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-07-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-07-W4",
+      "label": "4th week July 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-07-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-08-W1",
+      "label": "1st week August 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-08-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-08-W2",
+      "label": "2nd week August 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-08-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-08-W3",
+      "label": "3rd week August 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-08-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-08-W4",
+      "label": "4th week August 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-08-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-09-W1",
+      "label": "1st week September 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-09-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-09-W2",
+      "label": "2nd week September 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-09-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-09-W3",
+      "label": "3rd week September 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-09-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-09-W4",
+      "label": "4th week September 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-09-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-10-W1",
+      "label": "1st week October 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-10-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-10-W2",
+      "label": "2nd week October 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-10-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-10-W3",
+      "label": "3rd week October 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-10-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-10-W4",
+      "label": "4th week October 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-10-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-11-W1",
+      "label": "1st week November 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-11-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-11-W2",
+      "label": "2nd week November 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-11-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-11-W3",
+      "label": "3rd week November 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-11-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-11-W4",
+      "label": "4th week November 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-11-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-12-W1",
+      "label": "1st week December 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-12-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-12-W2",
+      "label": "2nd week December 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-12-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-12-W3",
+      "label": "3rd week December 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-12-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2018-12-W4",
+      "label": "4th week December 2018",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2018-12-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-01-W1",
+      "label": "1st week January 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-01-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-01-W2",
+      "label": "2nd week January 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-01-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-01-W3",
+      "label": "3rd week January 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-01-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-01-W4",
+      "label": "4th week January 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-01-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-02-W1",
+      "label": "1st week February 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-02-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-02-W2",
+      "label": "2nd week February 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-02-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-02-W3",
+      "label": "3rd week February 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-02-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-02-W4",
+      "label": "4th week February 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-02-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-03-W1",
+      "label": "1st week March 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-03-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-03-W2",
+      "label": "2nd week March 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-03-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-03-W3",
+      "label": "3rd week March 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-03-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-03-W4",
+      "label": "4th week March 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-03-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-04-W1",
+      "label": "1st week April 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-04-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-04-W2",
+      "label": "2nd week April 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-04-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-05-W1",
+      "label": "1st week May 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-05-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-05-W2",
+      "label": "2nd week May 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-05-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-05-W3",
+      "label": "3rd week May 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-05-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-05-W4",
+      "label": "4th week May 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-05-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-06-W1",
+      "label": "1st week June 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-06-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-06-W2",
+      "label": "2nd week June 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-06-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-06-W3",
+      "label": "3rd week June 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-06-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-06-W4",
+      "label": "4th week June 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-06-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-07-W1",
+      "label": "1st week July 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-07-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-07-W2",
+      "label": "2nd week July 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-07-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-07-W3",
+      "label": "3rd week July 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-07-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-07-W4",
+      "label": "4th week July 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-07-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-08-W1",
+      "label": "1st week August 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-08-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-08-W2",
+      "label": "2nd week August 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-08-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-08-W3",
+      "label": "3rd week August 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-08-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-08-W4",
+      "label": "4th week August 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-08-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-09-W1",
+      "label": "1st week September 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-09-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-09-W2",
+      "label": "2nd week September 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-09-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-09-W3",
+      "label": "3rd week September 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-09-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-09-W4",
+      "label": "4th week September 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-09-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-10-W1",
+      "label": "1st week October 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-10-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-10-W2",
+      "label": "2nd week October 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-10-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-10-W3",
+      "label": "3rd week October 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-10-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-10-W4",
+      "label": "4th week October 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-10-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-11-W1",
+      "label": "1st week November 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-11-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-11-W2",
+      "label": "2nd week November 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-11-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-11-W3",
+      "label": "3rd week November 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-11-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-11-W4",
+      "label": "4th week November 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-11-W4.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-12-W1",
+      "label": "1st week December 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-12-W1.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-12-W2",
+      "label": "2nd week December 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-12-W2.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-12-W3",
+      "label": "3rd week December 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-12-W3.pdf",
+      "status": "unavailable"
+    },
+    {
+      "report": "DCSB-WRP-2019-12-W4",
+      "label": "4th week December 2019",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2019-12-W4.pdf",
+      "status": "downloaded",
+      "sha256": "4728dbae9ddbe831e20ea57323de8b422df78cd512269bbab4b978e1b41854ac",
+      "bytes": 23714
+    },
+    {
+      "report": "DCSB-WRP-2020-01-W1",
+      "label": "1st week January 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-01-W1.pdf",
+      "status": "downloaded",
+      "sha256": "043faad4b9a4a5039f7f6fa24470d5e4cf3f72dc4c73673bdd9315196f830e44",
+      "bytes": 22307
+    },
+    {
+      "report": "DCSB-WRP-2020-01-W2",
+      "label": "2nd week January 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-01-W2.pdf",
+      "status": "downloaded",
+      "sha256": "882aba1f7f0256151e77e0f63d36805723c2d929ee4bac770fb82cd31bb562b6",
+      "bytes": 23708
+    },
+    {
+      "report": "DCSB-WRP-2020-01-W3",
+      "label": "3rd week January 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-01-W3.pdf",
+      "status": "downloaded",
+      "sha256": "5e7fcc0238e6c3e36c81fb12c99d46405f562f23d61ac936e301ce2069aa14df",
+      "bytes": 23676
+    },
+    {
+      "report": "DCSB-WRP-2020-01-W4",
+      "label": "4th week January 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-01-W4.pdf",
+      "status": "downloaded",
+      "sha256": "d8f7e060353dfb1dd79e2722eb34f01d844effccd65b8fbf875d9b934f7a59f5",
+      "bytes": 23860
+    },
+    {
+      "report": "DCSB-WRP-2020-02-W1",
+      "label": "1st week February 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-02-W1.pdf",
+      "status": "downloaded",
+      "sha256": "b4193ce0b3373ab238cf9fe21e465b5f2d7bed4a643eda686ea18474222aa554",
+      "bytes": 23567
+    },
+    {
+      "report": "DCSB-WRP-2020-02-W2",
+      "label": "2nd week February 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-02-W2.pdf",
+      "status": "downloaded",
+      "sha256": "1f2432edaeb1fdbc5a9888f052ddea422b72cafa534d5633ae76e7dd8cfc0e50",
+      "bytes": 23764
+    },
+    {
+      "report": "DCSB-WRP-2020-02-W3",
+      "label": "3rd week February 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-02-W3.pdf",
+      "status": "downloaded",
+      "sha256": "79b02e54c082705f801047e4b108921501c777bc72afc7d18aec7593f1b9da8d",
+      "bytes": 23719
+    },
+    {
+      "report": "DCSB-WRP-2020-02-W4",
+      "label": "4th week February 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-02-W4.pdf",
+      "status": "downloaded",
+      "sha256": "c05c0aaa2e3f31d414041798e1e88233c86cfda3584b8057ebfa82b20156396d",
+      "bytes": 23694
+    },
+    {
+      "report": "DCSB-WRP-2020-03-W1",
+      "label": "1st week March 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-03-W1.pdf",
+      "status": "downloaded",
+      "sha256": "76275c8616debe58469dc406ec8c21d748f5e5b1c2c0d9e86e58086c0f96749b",
+      "bytes": 22701
+    },
+    {
+      "report": "DCSB-WRP-2020-03-W2",
+      "label": "2nd week March 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-03-W2.pdf",
+      "status": "downloaded",
+      "sha256": "5117dbc25293624e23ad6b2bc2a183f84033f24c6296f5c07b63cf305266637d",
+      "bytes": 22973
+    },
+    {
+      "report": "DCSB-WRP-2020-03-W3",
+      "label": "3rd week March 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-03-W3.pdf",
+      "status": "downloaded",
+      "sha256": "ec9589a7028c16f8a469aa3ee9addc5b6528fef43875367b2c2f16c3c181af3f",
+      "bytes": 55512
+    },
+    {
+      "report": "DCSB-WRP-2020-03-W4",
+      "label": "4th week March 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-03-W4.pdf",
+      "status": "downloaded",
+      "sha256": "04a8e831a4b4f1c4915a3dc788e9e8d6954033590e8365cc0547dfcf20c0a1bf",
+      "bytes": 56091
+    },
+    {
+      "report": "DCSB-WRP-2020-04-W1",
+      "label": "1st week April 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-04-W1.pdf",
+      "status": "downloaded",
+      "sha256": "581cb3afd6285312d5937662c808f2b38b9bba009589ea78d55ee2e87b722c8e",
+      "bytes": 55087
+    },
+    {
+      "report": "DCSB-WRP-2020-04-W2",
+      "label": "2nd week April 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-04-W2.pdf",
+      "status": "downloaded",
+      "sha256": "1861d5a894257091bc578fefed8e1527dc1b4c9c2fd74e49ca4b93b390ebe87d",
+      "bytes": 55400
+    },
+    {
+      "report": "DCSB-WRP-2020-04-W3",
+      "label": "3rd week April 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-04-W3.pdf",
+      "status": "downloaded",
+      "sha256": "56a462330d39fae924b7aa7cd54ed83e82ee6d9b26511f48f9b21f1bc7e79093",
+      "bytes": 55958
+    },
+    {
+      "report": "DCSB-WRP-2020-04-W4",
+      "label": "4th week April 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-04-W4.pdf",
+      "status": "downloaded",
+      "sha256": "239160a5fdcc9fd5725dde22de11c890891cdcb68ccdf0d346ca0bc3f266a800",
+      "bytes": 56064
+    },
+    {
+      "report": "DCSB-WRP-2020-05-W1",
+      "label": "1st week May 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-05-W1.pdf",
+      "status": "downloaded",
+      "sha256": "3e167824c4606f85ade54da15d6b96ad0c3c9d34c8dc387486482578eefd6366",
+      "bytes": 55903
+    },
+    {
+      "report": "DCSB-WRP-2020-05-W2",
+      "label": "2nd week May 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-05-W2.pdf",
+      "status": "downloaded",
+      "sha256": "adbdeb38bcd10b2bbb813f8398ec7d7789751502947ac30027cba7738c8d409d",
+      "bytes": 55342
+    },
+    {
+      "report": "DCSB-WRP-2020-05-W3",
+      "label": "3rd week May 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-05-W3.pdf",
+      "status": "downloaded",
+      "sha256": "2f12e964851d2ca3355020717aa543dc824925e722c02e8b2d40d49adc3b98ac",
+      "bytes": 57489
+    },
+    {
+      "report": "DCSB-WRP-2020-05-W4",
+      "label": "4th week May 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-05-W4.pdf",
+      "status": "downloaded",
+      "sha256": "5646600dac3401901e5ff58b18d840c22eaa43b592f75cd8ad9ccd39c9785222",
+      "bytes": 56565
+    },
+    {
+      "report": "DCSB-WRP-2020-06-W1",
+      "label": "1st week June 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-06-W1.pdf",
+      "status": "downloaded",
+      "sha256": "fce531e2216944b3d8090d0c5eeb20b7ba37409ff6bd738998480b6394f878a0",
+      "bytes": 57495
+    },
+    {
+      "report": "DCSB-WRP-2020-06-W2",
+      "label": "2nd week June 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-06-W2.pdf",
+      "status": "downloaded",
+      "sha256": "11feca3e725c9b1018379cd765b77c782f3950844899ddb31ead03f227bceb36",
+      "bytes": 57701
+    },
+    {
+      "report": "DCSB-WRP-2020-06-W3",
+      "label": "3rd week June 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-06-W3.pdf",
+      "status": "downloaded",
+      "sha256": "06e77ec093f3a0038e8257a2c96126e97cf1c18ebf6db9583b4699250db06836",
+      "bytes": 23177
+    },
+    {
+      "report": "DCSB-WRP-2020-06-W4",
+      "label": "4th week June 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-06-W4.pdf",
+      "status": "downloaded",
+      "sha256": "abdb0af862e828059c5af3f2ef3b0dd325b1bead123e98c58780f0a3dd52e22f",
+      "bytes": 23804
+    },
+    {
+      "report": "DCSB-WRP-2020-07-W1",
+      "label": "1st week July 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-07-W1.pdf",
+      "status": "downloaded",
+      "sha256": "484b929e6006527c09d0fa3bf023fbcdb1db70ebb93baa4b820349f98ce48244",
+      "bytes": 23324
+    },
+    {
+      "report": "DCSB-WRP-2020-07-W2",
+      "label": "2nd week July 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-07-W2.pdf",
+      "status": "downloaded",
+      "sha256": "bc16485ed00a49f438c7458961e3b81fc606cd180c3836e4fc6c27d26824f4a0",
+      "bytes": 23812
+    },
+    {
+      "report": "DCSB-WRP-2020-07-W3",
+      "label": "3rd week July 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-07-W3.pdf",
+      "status": "downloaded",
+      "sha256": "691b8281eff28a9a9382c9f4e4f3876c390f738f8b06e25d845f404143b96752",
+      "bytes": 23877
+    },
+    {
+      "report": "DCSB-WRP-2020-07-W4",
+      "label": "4th week July 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-07-W4.pdf",
+      "status": "downloaded",
+      "sha256": "abe4c1e4830e7a7412d2185b4f1f24b1a78b66603651c19b1b792d3f936097b1",
+      "bytes": 23845
+    },
+    {
+      "report": "DCSB-WRP-2020-08-W2",
+      "label": "2nd week August 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-08-W2.pdf",
+      "status": "downloaded",
+      "sha256": "e5215400dbfb62adb90ae8e0c13971415bd457cf0c3223f43778a12ec14ff1a9",
+      "bytes": 23533
+    },
+    {
+      "report": "DCSB-WRP-2020-08-W3",
+      "label": "3rd week August 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-08-W3.pdf",
+      "status": "downloaded",
+      "sha256": "3f2d2792e9d8034c423ed0eb07bafde68614f630994a41af84df16689f457db2",
+      "bytes": 23768
+    },
+    {
+      "report": "DCSB-WRP-2020-08-W4",
+      "label": "4th week August 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-08-W4.pdf",
+      "status": "downloaded",
+      "sha256": "6d9bd0daede006e2d40a5f7267932d16c215e9be10f784537d30e1d2b591a062",
+      "bytes": 23889
+    },
+    {
+      "report": "DCSB-WRP-2020-09-W1",
+      "label": "1st week September 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-09-W1.pdf",
+      "status": "downloaded",
+      "sha256": "15550024059cc4cf43777e605fb0b6b38cd9a6fd59b5b6fe3927f4795cd09c6e",
+      "bytes": 23781
+    },
+    {
+      "report": "DCSB-WRP-2020-09-W2",
+      "label": "2nd week September 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-09-W2.pdf",
+      "status": "downloaded",
+      "sha256": "41127bb93e1219956fbea0e14df520ad0465ef7b2675714695ad2309d4be390a",
+      "bytes": 23897
+    },
+    {
+      "report": "DCSB-WRP-2020-09-W3",
+      "label": "3rd week September 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-09-W3.pdf",
+      "status": "downloaded",
+      "sha256": "34d7946ae106604f1ccdc93a2c28b339d1a4798b500d3d5c909de258b3c87e7d",
+      "bytes": 23906
+    },
+    {
+      "report": "DCSB-WRP-2020-09-W4",
+      "label": "4th week September 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-09-W4.pdf",
+      "status": "downloaded",
+      "sha256": "523cf819406fd0c95784616779ee8415c52c07ba7c4090d0cf098c7ecd5e5e81",
+      "bytes": 23835
+    },
+    {
+      "report": "DCSB-WRP-2020-10-W1",
+      "label": "1st week October 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-10-W1.pdf",
+      "status": "downloaded",
+      "sha256": "39c22acbc32e4647da3ae14eef0969c98fcdeac22ce7da828a79da89028e7591",
+      "bytes": 23675
+    },
+    {
+      "report": "DCSB-WRP-2020-10-W2",
+      "label": "2nd week October 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-10-W2.pdf",
+      "status": "downloaded",
+      "sha256": "304b64510184f4b7fb8f6ad030bbd0480311010e961db0317fdc3a4452af3570",
+      "bytes": 23006
+    },
+    {
+      "report": "DCSB-WRP-2020-10-W3",
+      "label": "3rd week October 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-10-W3.pdf",
+      "status": "downloaded",
+      "sha256": "c5b44d2e4ceacc8ced476d55a223ad3c684598905d983a64c5f221dc74caa273",
+      "bytes": 23994
+    },
+    {
+      "report": "DCSB-WRP-2020-10-W4",
+      "label": "4th week October 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-10-W4.pdf",
+      "status": "downloaded",
+      "sha256": "4115c4ec9df52f8679f654a9a0e0f6105a46cad849b9cd9c4b3029f22e3539a8",
+      "bytes": 59965
+    },
+    {
+      "report": "DCSB-WRP-2020-11-W1",
+      "label": "1st week November 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-11-W1.pdf",
+      "status": "downloaded",
+      "sha256": "2f2487567fdbf5fec02d9e81739356f93f58a4cc49418c6faf635ed585c675c3",
+      "bytes": 46441
+    },
+    {
+      "report": "DCSB-WRP-2020-11-W2",
+      "label": "2nd week November 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-11-W2.pdf",
+      "status": "downloaded",
+      "sha256": "351c1e6fc8cb77eb9e5cc0dc807ecdb21a972df4e2b12b98cd7ed5ec728c4c56",
+      "bytes": 59905
+    },
+    {
+      "report": "DCSB-WRP-2020-11-W3",
+      "label": "3rd week November 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-11-W3.pdf",
+      "status": "downloaded",
+      "sha256": "12e950eb9b2f8940a6a2f9ea8ae278dcc2f044d1099720d3e7564107ea8bed2e",
+      "bytes": 23864
+    },
+    {
+      "report": "DCSB-WRP-2020-11-W4",
+      "label": "4th week November 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-11-W4.pdf",
+      "status": "downloaded",
+      "sha256": "b2929f5b36ffe4f40916ed6935d2d767d4f75720c76fd4cbc70d94eb35dfb030",
+      "bytes": 108067
+    },
+    {
+      "report": "DCSB-WRP-2020-12-W1",
+      "label": "1st week December 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-12-W1.pdf",
+      "status": "downloaded",
+      "sha256": "dc5eb1a87a0fb563c63fd677a4cfe9c4031387d9662e68c895f94b382a0c7cc7",
+      "bytes": 107150
+    },
+    {
+      "report": "DCSB-WRP-2020-12-W2",
+      "label": "2nd week December 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-12-W2.pdf",
+      "status": "downloaded",
+      "sha256": "c886132f912f2790984753f667496822b5dedc6905ffcdb202da089af28e2849",
+      "bytes": 60165
+    },
+    {
+      "report": "DCSB-WRP-2020-12-W3",
+      "label": "3rd week December 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-12-W3.pdf",
+      "status": "downloaded",
+      "sha256": "b3e2a89971bb94d4d1ef9e9b31b558423c4458fcae54d10f891b824dfeb776b3",
+      "bytes": 108203
+    },
+    {
+      "report": "DCSB-WRP-2020-12-W4",
+      "label": "4th week December 2020",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2020-12-W4.pdf",
+      "status": "downloaded",
+      "sha256": "cffa635d6b3edde6af315cba5eb637cbaa8ae4cdc6af33f16c01b5c52084a9ef",
+      "bytes": 108175
+    },
+    {
+      "report": "DCSB-WRP-2021-01-W1",
+      "label": "1st week January 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-01-W1.pdf",
+      "status": "downloaded",
+      "sha256": "b4b34a57ae45032641ee90fe4f74040395a4ac9bf9d67b0555bf2ead40dec363",
+      "bytes": 113542
+    },
+    {
+      "report": "DCSB-WRP-2021-01-W2",
+      "label": "2nd week January 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-01-W2.pdf",
+      "status": "downloaded",
+      "sha256": "c0338e770222107c2f3447389a0ecf8f89db5da426128575470cd73243dd28c6",
+      "bytes": 113864
+    },
+    {
+      "report": "DCSB-WRP-2021-01-W3",
+      "label": "3rd week January 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-01-W3.pdf",
+      "status": "downloaded",
+      "sha256": "7db0f7b4c07a8347c09b811097d226b04b3d31ad7771e946d1c01b1665e70da3",
+      "bytes": 59002
+    },
+    {
+      "report": "DCSB-WRP-2021-01-W4",
+      "label": "4th week January 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-01-W4.pdf",
+      "status": "downloaded",
+      "sha256": "63c9546105551d1278de95a94d28ecf3583059fbb2203bddf457221037009c32",
+      "bytes": 58819
+    },
+    {
+      "report": "DCSB-WRP-2021-02-W1",
+      "label": "1st week February 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-02-W1.pdf",
+      "status": "downloaded",
+      "sha256": "1511c6141c4eced03cc5b765e7954aa85961f7da4b4bcc176af46e1078a0f045",
+      "bytes": 107709
+    },
+    {
+      "report": "DCSB-WRP-2021-02-W2",
+      "label": "2nd week February 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-02-W2.pdf",
+      "status": "downloaded",
+      "sha256": "70e3d5661abbfd5d49641738da7ea911d97e363b0fb1a9fdaca094e421f6b410",
+      "bytes": 58443
+    },
+    {
+      "report": "DCSB-WRP-2021-02-W3",
+      "label": "3rd week February 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-02-W3.pdf",
+      "status": "downloaded",
+      "sha256": "9519279a5383054f40d0f68381c45e0fc7b58e837c7edfe5e3b044b98abbaf61",
+      "bytes": 59138
+    },
+    {
+      "report": "DCSB-WRP-2021-02-W4",
+      "label": "4th week February 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-02-W4.pdf",
+      "status": "downloaded",
+      "sha256": "0690a86efd0fee6a3e491c127f699655f160453d7c87a7e4b23b59e513f88972",
+      "bytes": 58858
+    },
+    {
+      "report": "DCSB-WRP-2021-03-W1",
+      "label": "1st week March 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-03-W1.pdf",
+      "status": "downloaded",
+      "sha256": "b1aa4f10dd3bc2e9fd1be17530525114e8e38c4cd4b85ef2d2e9c430449835f6",
+      "bytes": 113650
+    },
+    {
+      "report": "DCSB-WRP-2021-03-W2",
+      "label": "2nd week March 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-03-W2.pdf",
+      "status": "downloaded",
+      "sha256": "5e462bd38126b75138b653cd89d2c31fe34711bb2c19d059e5dcf3401de508d8",
+      "bytes": 58770
+    },
+    {
+      "report": "DCSB-WRP-2021-03-W3",
+      "label": "3rd week March 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-03-W3.pdf",
+      "status": "downloaded",
+      "sha256": "008a1002fa02dc599eff003ed16e50e8cc914a3ec34a0725ed06c00e4f229a90",
+      "bytes": 58859
+    },
+    {
+      "report": "DCSB-WRP-2021-03-W4",
+      "label": "4th week March 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-03-W4.pdf",
+      "status": "downloaded",
+      "sha256": "58f48091b776abdc54729a9101ee2b91d96363adec8601faf2c655b26d49c236",
+      "bytes": 58897
+    },
+    {
+      "report": "DCSB-WRP-2021-04-W1",
+      "label": "1st week April 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-04-W1.pdf",
+      "status": "downloaded",
+      "sha256": "2a5c2d5857da47927faf83d87acd9777ecbb9be49be653e23e47cdc92599f447",
+      "bytes": 113978
+    },
+    {
+      "report": "DCSB-WRP-2021-04-W3",
+      "label": "3rd week April 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-04-W3.pdf",
+      "status": "downloaded",
+      "sha256": "1614347665313e0723c4f4cdf9f1be9e070ec260b90b3dd2d11280226152cfd1",
+      "bytes": 24369
+    },
+    {
+      "report": "DCSB-WRP-2021-04-W4",
+      "label": "4th week April 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-04-W4.pdf",
+      "status": "downloaded",
+      "sha256": "abc00a262191e5a9e9384c6bd8f1e4cf270e4c875bd261b98082dc93bc60c006",
+      "bytes": 24046
+    },
+    {
+      "report": "DCSB-WRP-2021-05-W1",
+      "label": "1st week May 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-05-W1.pdf",
+      "status": "downloaded",
+      "sha256": "26c401bf2167c7eafc7d0a1e96bc65fe5c7e6787a96f9d1f1615b3ef3e2399c1",
+      "bytes": 107090
+    },
+    {
+      "report": "DCSB-WRP-2021-05-W2",
+      "label": "2nd week May 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-05-W2.pdf",
+      "status": "downloaded",
+      "sha256": "2dfc8015e9b595fc673db1d3017938de4b7a57681118cd4bc6991c12bbe66860",
+      "bytes": 480380
+    },
+    {
+      "report": "DCSB-WRP-2021-05-W3",
+      "label": "3rd week May 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-05-W3.pdf",
+      "status": "downloaded",
+      "sha256": "d53a712bd321905104eb836c39a5531819d163ac48c4d7393a72755bfa123f15",
+      "bytes": 108648
+    },
+    {
+      "report": "DCSB-WRP-2021-05-W4",
+      "label": "4th week May 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-05-W4.pdf",
+      "status": "downloaded",
+      "sha256": "d7a73749fb939c60b376a06a5bfc45e3253cf321b62545cc7b27213bbaddf239",
+      "bytes": 70491
+    },
+    {
+      "report": "DCSB-WRP-2021-06-W1",
+      "label": "1st week June 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-06-W1.pdf",
+      "status": "downloaded",
+      "sha256": "134f4018c85a0f2fa448b10415f2960302d9bfdbba59ea42a96edd732fb31cca",
+      "bytes": 76754
+    },
+    {
+      "report": "DCSB-WRP-2021-06-W2",
+      "label": "2nd week June 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-06-W2.pdf",
+      "status": "downloaded",
+      "sha256": "bd1af0318820281501b90281d495c2390fb0eed386fb6b1eb83547a58b19a30d",
+      "bytes": 33380
+    },
+    {
+      "report": "DCSB-WRP-2021-06-W3",
+      "label": "3rd week June 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-06-W3.pdf",
+      "status": "downloaded",
+      "sha256": "4424289387ffbaab13d4d732677089d6fa266264d210b69111990921150f0ced",
+      "bytes": 1579783
+    },
+    {
+      "report": "DCSB-WRP-2021-06-W4",
+      "label": "4th week June 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-06-W4.pdf",
+      "status": "downloaded",
+      "sha256": "e7249de91ff6278db7eddc6214c90e6eec1cd1ab95182d2658e207622aa58543",
+      "bytes": 1691292
+    },
+    {
+      "report": "DCSB-WRP-2021-07-W1",
+      "label": "1st week July 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-07-W1.pdf",
+      "status": "downloaded",
+      "sha256": "925e68b6df595426efa9446053535e04d867302341c7fd657ffa82dd29ffcc89",
+      "bytes": 1692401
+    },
+    {
+      "report": "DCSB-WRP-2021-07-W2",
+      "label": "2nd week July 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-07-W2.pdf",
+      "status": "downloaded",
+      "sha256": "ad4c382722f748a3492d108339e28d8537be90bf02b41406cb036d32ab28dceb",
+      "bytes": 1693249
+    },
+    {
+      "report": "DCSB-WRP-2021-07-W3",
+      "label": "3rd week July 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-07-W3.pdf",
+      "status": "downloaded",
+      "sha256": "c74f579525de26876882629b9b5d0773d30ba789cae673ec7f24b59cecc6d658",
+      "bytes": 1687178
+    },
+    {
+      "report": "DCSB-WRP-2021-07-W4",
+      "label": "4th week July 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-07-W4.pdf",
+      "status": "downloaded",
+      "sha256": "bc65639c5159bed6d652e5a344d5cbd8fd21e51967ca5f60be387154c55a7ef9",
+      "bytes": 846274
+    },
+    {
+      "report": "DCSB-WRP-2021-08-W1",
+      "label": "1st week August 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-08-W1.pdf",
+      "status": "downloaded",
+      "sha256": "9137bb2e8bb34ad8f2bff9aaeb33ef4318bf8a28b61cc194688e2c8b7b0f51d6",
+      "bytes": 1609367
+    },
+    {
+      "report": "DCSB-WRP-2021-08-W2",
+      "label": "2nd week August 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-08-W2.pdf",
+      "status": "downloaded",
+      "sha256": "4c63994cf81a231dbb0b792ecbc162b34bb4565c02ca3f2021f0a00161bea70e",
+      "bytes": 1605704
+    },
+    {
+      "report": "DCSB-WRP-2021-08-W3",
+      "label": "3rd week August 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-08-W3.pdf",
+      "status": "downloaded",
+      "sha256": "a80ded39d2be743177dbb917ff230c5220b8d2c38fd4a7538d5664d45ed4fbaa",
+      "bytes": 1605386
+    },
+    {
+      "report": "DCSB-WRP-2021-08-W4",
+      "label": "4th week August 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-08-W4.pdf",
+      "status": "downloaded",
+      "sha256": "75557ffcce4d61777b24900d6f78a669f519c0984e2529c1f4ba6cec11712d45",
+      "bytes": 1435483
+    },
+    {
+      "report": "DCSB-WRP-2021-09-W1",
+      "label": "1st week September 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-09-W1.pdf",
+      "status": "downloaded",
+      "sha256": "5e9c19762472a43357729967d225387ef2f094095f0ae518fc97597c54210a3b",
+      "bytes": 690047
+    },
+    {
+      "report": "DCSB-WRP-2021-09-W2",
+      "label": "2nd week September 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-09-W2.pdf",
+      "status": "downloaded",
+      "sha256": "c0653c402a0b48b0a762e9e20c7c071f20890d465e615947ab5f72670d26d4e6",
+      "bytes": 690468
+    },
+    {
+      "report": "DCSB-WRP-2021-09-W3",
+      "label": "3rd week September 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-09-W3.pdf",
+      "status": "downloaded",
+      "sha256": "9bf8b687c1eb29bf96fd975c4f30bd63df4ad26cfd8b8d40a7ab96d010c812c9",
+      "bytes": 692172
+    },
+    {
+      "report": "DCSB-WRP-2021-09-W4",
+      "label": "4th week September 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-09-W4.pdf",
+      "status": "downloaded",
+      "sha256": "8fafb38f16e38d6760b8d38743d74ff122897c23e12403d45ee915e1fb6f613f",
+      "bytes": 694563
+    },
+    {
+      "report": "DCSB-WRP-2021-10-W1",
+      "label": "1st week October 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-10-W1.pdf",
+      "status": "downloaded",
+      "sha256": "645fbe78ef8366e690fb507bde4d990a4972af991d3ef779b5edb34f00eb250d",
+      "bytes": 684927
+    },
+    {
+      "report": "DCSB-WRP-2021-10-W2",
+      "label": "2nd week October 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-10-W2.pdf",
+      "status": "downloaded",
+      "sha256": "61d96326fffb032459d26b9edde86e70857a7ada048c966957c114d570d1c03d",
+      "bytes": 684868
+    },
+    {
+      "report": "DCSB-WRP-2021-10-W3",
+      "label": "3rd week October 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-10-W3.pdf",
+      "status": "downloaded",
+      "sha256": "f6e5483565c9187a58aa158e1eb11fd70e8f08ff88a5aa124fe62c3b928892dd",
+      "bytes": 687259
+    },
+    {
+      "report": "DCSB-WRP-2021-10-W4",
+      "label": "4th week October 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-10-W4.pdf",
+      "status": "downloaded",
+      "sha256": "dc52e0640df9531dd49f5712455c02270fe88d83f87ca0c05f9074718e4ec53f",
+      "bytes": 689289
+    },
+    {
+      "report": "DCSB-WRP-2021-11-W1",
+      "label": "1st week November 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-11-W1.pdf",
+      "status": "downloaded",
+      "sha256": "61ea3bbeeb52b1bb1603652e77d427b059c63f09cfbf0e292b1723b3ff53beac",
+      "bytes": 686328
+    },
+    {
+      "report": "DCSB-WRP-2021-11-W2",
+      "label": "2nd week November 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-11-W2.pdf",
+      "status": "downloaded",
+      "sha256": "2bab97f4e7f19ca65a6bbd33a4f4d658008483520b0a3d7cae77bdccea8dcdd7",
+      "bytes": 685900
+    },
+    {
+      "report": "DCSB-WRP-2021-11-W3",
+      "label": "3rd week November 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-11-W3.pdf",
+      "status": "downloaded",
+      "sha256": "4fb599c05265bd92bb5caa88c892b19b3255abb8289e4233408a23ad1e855282",
+      "bytes": 687817
+    },
+    {
+      "report": "DCSB-WRP-2021-11-W4",
+      "label": "4th week November 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-11-W4.pdf",
+      "status": "downloaded",
+      "sha256": "74153e46ef04a2ecf7a2434325e2dc7ba5a841166ba4fd957903e7362997caf3",
+      "bytes": 691715
+    },
+    {
+      "report": "DCSB-WRP-2021-12-W1",
+      "label": "1st week December 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-12-W1.pdf",
+      "status": "downloaded",
+      "sha256": "3afdd24205f2bc797848a69a4592684f99722a6ac865df8fc9f6c46096737997",
+      "bytes": 684712
+    },
+    {
+      "report": "DCSB-WRP-2021-12-W2",
+      "label": "2nd week December 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-12-W2.pdf",
+      "status": "downloaded",
+      "sha256": "6721ef680effa69487d387bacf3cffe5c07f676ebcf456af522eb225d930c47c",
+      "bytes": 686372
+    },
+    {
+      "report": "DCSB-WRP-2021-12-W3",
+      "label": "3rd week December 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-12-W3.pdf",
+      "status": "downloaded",
+      "sha256": "fb28491ee4744ec1a54d15e9fd1c240c266b1996dc2287e19e3978feb7fde977",
+      "bytes": 29207
+    },
+    {
+      "report": "DCSB-WRP-2021-12-W4",
+      "label": "4th week December 2021",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2021-12-W4.pdf",
+      "status": "downloaded",
+      "sha256": "035faa837d5305b2d3410f0bbaeb1169b081604f6aa2ed4b6bee8dadd3d24727",
+      "bytes": 699409
+    },
+    {
+      "report": "DCSB-WRP-2022-01-W1",
+      "label": "1st week January 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-01-W1.pdf",
+      "status": "downloaded",
+      "sha256": "7658d5a66212bb828b1da6b5e5012472b570f8ec4ab778ef0ca44a582e3e24c7",
+      "bytes": 690300
+    },
+    {
+      "report": "DCSB-WRP-2022-01-W2",
+      "label": "2nd week January 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-01-W2.pdf",
+      "status": "downloaded",
+      "sha256": "9f0558df44075d2ec0c2d7c970b7f02ff3bf92960511fecbd52d4551b89f34cc",
+      "bytes": 688716
+    },
+    {
+      "report": "DCSB-WRP-2022-01-W3",
+      "label": "3rd week January 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-01-W3.pdf",
+      "status": "downloaded",
+      "sha256": "a0fd5b57d94351c95399d6308acee26ee43e0f7f2d4f3dcba4afcd53cbf4623e",
+      "bytes": 700446
+    },
+    {
+      "report": "DCSB-WRP-2022-01-W4",
+      "label": "4th week January 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-01-W4.pdf",
+      "status": "downloaded",
+      "sha256": "2ed949273499f50559c81fac91f27509150e5c4f0c5e8f2bbb6198996a6641c2",
+      "bytes": 186281
+    },
+    {
+      "report": "DCSB-WRP-2022-02-W1",
+      "label": "1st week February 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-02-W1.pdf",
+      "status": "downloaded",
+      "sha256": "3355d3c4ba40667aae7bedae600ff03f7f543069d1cb48b891070738c9b54b2b",
+      "bytes": 695356
+    },
+    {
+      "report": "DCSB-WRP-2022-02-W2",
+      "label": "2nd week February 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-02-W2.pdf",
+      "status": "downloaded",
+      "sha256": "01520c0b15e190dadc1edc8b9d7a108ee757b0fb02673abaeb414e9a47e205ab",
+      "bytes": 186124
+    },
+    {
+      "report": "DCSB-WRP-2022-02-W3",
+      "label": "3rd week February 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-02-W3.pdf",
+      "status": "downloaded",
+      "sha256": "bed515bdc3458342de96a0c7854c74fb9df6b6948a0f0efb6e4b672d401a5450",
+      "bytes": 186418
+    },
+    {
+      "report": "DCSB-WRP-2022-02-W4",
+      "label": "4th week February 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-02-W4.pdf",
+      "status": "downloaded",
+      "sha256": "d3443fa05d546203110953ac78fa56ba57f7415992dd3a0d324ee5113d4783c4",
+      "bytes": 18888
+    },
+    {
+      "report": "DCSB-WRP-2022-03-W1",
+      "label": "1st week March 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-03-W1.pdf",
+      "status": "downloaded",
+      "sha256": "27ee7256bdb9b644312dfe8ddbb6171d39ea5ca945f71ee406405feebe7c02d7",
+      "bytes": 18409
+    },
+    {
+      "report": "DCSB-WRP-2022-03-W2",
+      "label": "2nd week March 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-03-W2.pdf",
+      "status": "downloaded",
+      "sha256": "36f3cd73092b2ed33dffe952251abe905a2fdb63619d728b78020a13ca3651e3",
+      "bytes": 686138
+    },
+    {
+      "report": "DCSB-WRP-2022-03-W3",
+      "label": "3rd week March 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-03-W3.pdf",
+      "status": "downloaded",
+      "sha256": "1403b73cda7f83e2af886239f0deb820180ed5a36368bde4a01c648f9f0531bd",
+      "bytes": 18540
+    },
+    {
+      "report": "DCSB-WRP-2022-03-W4",
+      "label": "4th week March 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-03-W4.pdf",
+      "status": "downloaded",
+      "sha256": "10e7895b003d896ea6a28a709339d8cf797ca1112a4fe2e6175de0b45cd588d3",
+      "bytes": 697792
+    },
+    {
+      "report": "DCSB-WRP-2022-04-W1",
+      "label": "1st week April 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-04-W1.pdf",
+      "status": "downloaded",
+      "sha256": "0be49fe1efb582cf60f56cea5de909eb64b6ac6cd9895f0fe9dd39f7f4d1bce9",
+      "bytes": 686095
+    },
+    {
+      "report": "DCSB-WRP-2022-04-W3",
+      "label": "3rd week April 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-04-W3.pdf",
+      "status": "downloaded",
+      "sha256": "61d51b2ee8d0030587585ed03619d61bda41ae326840b8590cc66de6fd6ff01c",
+      "bytes": 695993
+    },
+    {
+      "report": "DCSB-WRP-2022-04-W4",
+      "label": "4th week April 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-04-W4.pdf",
+      "status": "downloaded",
+      "sha256": "b911b404577b55ca73f8c58fe4cd799ae9063d3bd191e8b84ab217be44e4b68c",
+      "bytes": 698955
+    },
+    {
+      "report": "DCSB-WRP-2022-05-W1",
+      "label": "1st week May 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-05-W1.pdf",
+      "status": "downloaded",
+      "sha256": "781dbb132aea232556fbaadbf6b043b0dcb5b929dc1239979d35b4eaeeded170",
+      "bytes": 687728
+    },
+    {
+      "report": "DCSB-WRP-2022-05-W3",
+      "label": "3rd week May 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-05-W3.pdf",
+      "status": "downloaded",
+      "sha256": "3294e826869b1c67cc47e9272d3e8befd3e2f3d6021973c84ed20d7758e74067",
+      "bytes": 697857
+    },
+    {
+      "report": "DCSB-WRP-2022-05-W4",
+      "label": "4th week May 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-05-W4.pdf",
+      "status": "downloaded",
+      "sha256": "276ff9a0e55c9d6a4819fdee31108f151c7146374cf00e24abd4ccfed2eafc4f",
+      "bytes": 700682
+    },
+    {
+      "report": "DCSB-WRP-2022-06-W1",
+      "label": "1st week June 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-06-W1.pdf",
+      "status": "downloaded",
+      "sha256": "860b0d8b5c9a21abbaee405c21a323e2776d8420c1d8ed43374605e19841ee61",
+      "bytes": 690078
+    },
+    {
+      "report": "DCSB-WRP-2022-06-W2",
+      "label": "2nd week June 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-06-W2.pdf",
+      "status": "downloaded",
+      "sha256": "3954f977c1a2eb2a3217d7d8a49cdc7fee5bf938586d6d74e32fb0692c7d2497",
+      "bytes": 697513
+    },
+    {
+      "report": "DCSB-WRP-2022-06-W3",
+      "label": "3rd week June 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-06-W3.pdf",
+      "status": "downloaded",
+      "sha256": "c1a69d7216a4bda9d3c6e5bdf77ce317809f3a09f05fcbe862779d91192aa349",
+      "bytes": 698877
+    },
+    {
+      "report": "DCSB-WRP-2022-06-W4",
+      "label": "4th week June 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-06-W4.pdf",
+      "status": "downloaded",
+      "sha256": "e8ab706d769001f032f513fc7a6ae3a02e209e829c488874d7d2fb001d5c65f0",
+      "bytes": 692352
+    },
+    {
+      "report": "DCSB-WRP-2022-07-W1",
+      "label": "1st week July 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-07-W1.pdf",
+      "status": "downloaded",
+      "sha256": "c6aa901a3d84ef1e8963cf784f6bc294627903c188b625edd4c7a229abc7b537",
+      "bytes": 691014
+    },
+    {
+      "report": "DCSB-WRP-2022-07-W2",
+      "label": "2nd week July 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-07-W2.pdf",
+      "status": "downloaded",
+      "sha256": "cd14258276428761891d5c414372f02ed5b67f954b417b563cf4bde36d85c8a0",
+      "bytes": 692161
+    },
+    {
+      "report": "DCSB-WRP-2022-07-W3",
+      "label": "3rd week July 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-07-W3.pdf",
+      "status": "downloaded",
+      "sha256": "4432e20ef55e52133c7bfd500011745644fb4ca66da423be894d356e77dafe8c",
+      "bytes": 692161
+    },
+    {
+      "report": "DCSB-WRP-2022-07-W4",
+      "label": "4th week July 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-07-W4.pdf",
+      "status": "downloaded",
+      "sha256": "6245948c44152cf679cdc6f8a215d55a6211b17e966760f0a10f080d4bc936de",
+      "bytes": 695022
+    },
+    {
+      "report": "DCSB-WRP-2022-08-W1",
+      "label": "1st week August 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-08-W1.pdf",
+      "status": "downloaded",
+      "sha256": "37891515f801e1145d141b73a4d631a99db4b64f36931ea71c8c5bcc223b1030",
+      "bytes": 690034
+    },
+    {
+      "report": "DCSB-WRP-2022-08-W2",
+      "label": "2nd week August 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-08-W2.pdf",
+      "status": "downloaded",
+      "sha256": "5866a6fe5af5451aaa04b76593714f6ae990a15229801405f9c5071aa2ca153e",
+      "bytes": 697055
+    },
+    {
+      "report": "DCSB-WRP-2022-08-W3",
+      "label": "3rd week August 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-08-W3.pdf",
+      "status": "downloaded",
+      "sha256": "64c632918d458ce92af8bb6dd3e71dfe5b9f7541b05c2614ec7130f83101c946",
+      "bytes": 698472
+    },
+    {
+      "report": "DCSB-WRP-2022-08-W4",
+      "label": "4th week August 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-08-W4.pdf",
+      "status": "downloaded",
+      "sha256": "264a6646c776d8fc174b0369174a76255c676be02b8784667ed33af32283dfae",
+      "bytes": 701176
+    },
+    {
+      "report": "DCSB-WRP-2022-09-W1",
+      "label": "1st week September 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-09-W1.pdf",
+      "status": "downloaded",
+      "sha256": "f7b3ddf0cb70f661429cb20a030260d57595f016f968bb8e7b86b65dd29e27db",
+      "bytes": 686686
+    },
+    {
+      "report": "DCSB-WRP-2022-09-W2",
+      "label": "2nd week September 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-09-W2.pdf",
+      "status": "downloaded",
+      "sha256": "2f1267a12dae6b19fbaa2ac4448c6c6eaeaa9598bd5f10bdee7675fb4e120527",
+      "bytes": 696369
+    },
+    {
+      "report": "DCSB-WRP-2022-09-W3",
+      "label": "3rd week September 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-09-W3.pdf",
+      "status": "downloaded",
+      "sha256": "ceb5eb19f75668b4450dcc8fae1fa71f66b25904ac8cf0ea99a2ea66e6b4e22a",
+      "bytes": 696080
+    },
+    {
+      "report": "DCSB-WRP-2022-09-W4",
+      "label": "4th week September 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-09-W4.pdf",
+      "status": "downloaded",
+      "sha256": "44d5c9f74165c65dda117b869b2c81f8c2bb76e9811fabd41ed9fa9ba7b27557",
+      "bytes": 698979
+    },
+    {
+      "report": "DCSB-WRP-2022-10-W1",
+      "label": "1st week October 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-10-W1.pdf",
+      "status": "downloaded",
+      "sha256": "b4fd831e95153ce6e51b968c73614ff61d7c26f2f9ec91fcea0c90c9c4790f5e",
+      "bytes": 685867
+    },
+    {
+      "report": "DCSB-WRP-2022-10-W2",
+      "label": "2nd week October 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-10-W2.pdf",
+      "status": "downloaded",
+      "sha256": "af44273f5707925e37ab1d5f2a9a7d36ec1a97a86a51b21fdedff1821e6f6fac",
+      "bytes": 694183
+    },
+    {
+      "report": "DCSB-WRP-2022-10-W3",
+      "label": "3rd week October 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-10-W3.pdf",
+      "status": "downloaded",
+      "sha256": "88f4e25b0eabd8feab0b0b30719fec68542112c513f9f9f5fef9c4a9806d410b",
+      "bytes": 695228
+    },
+    {
+      "report": "DCSB-WRP-2022-10-W4",
+      "label": "4th week October 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-10-W4.pdf",
+      "status": "downloaded",
+      "sha256": "86032fa805b2b17fa953dbff8a5bef45994ea9832df4a3fb5aef6ddfae633e85",
+      "bytes": 692812
+    },
+    {
+      "report": "DCSB-WRP-2022-11-W1",
+      "label": "1st week November 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-11-W1.pdf",
+      "status": "downloaded",
+      "sha256": "6271487f75faafbead57ec396fceaaa50ddfce74fe5a42170d11b236a582beb4",
+      "bytes": 688538
+    },
+    {
+      "report": "DCSB-WRP-2022-11-W2",
+      "label": "2nd week November 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-11-W2.pdf",
+      "status": "downloaded",
+      "sha256": "34ffbfa2e370abf804cdf10cd51544248589720c48b8400b5e3c9ec74492b808",
+      "bytes": 694251
+    },
+    {
+      "report": "DCSB-WRP-2022-11-W3",
+      "label": "3rd week November 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-11-W3.pdf",
+      "status": "downloaded",
+      "sha256": "5b1d71c04807d3a1072df1b44b938588de9d15863520d0dda9aee8a9a13494ae",
+      "bytes": 690189
+    },
+    {
+      "report": "DCSB-WRP-2022-11-W4",
+      "label": "4th week November 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-11-W4.pdf",
+      "status": "downloaded",
+      "sha256": "0ebadae281c306509cec3b3ff267ab89fb5302bf6a47584dc2195d3ab3b92954",
+      "bytes": 690518
+    },
+    {
+      "report": "DCSB-WRP-2022-12-W1",
+      "label": "1st week December 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-12-W1.pdf",
+      "status": "downloaded",
+      "sha256": "2fa14c0b0f302fe3835d40352488aae7293e6ebb213a9ad05c8984572baa8447",
+      "bytes": 685406
+    },
+    {
+      "report": "DCSB-WRP-2022-12-W2",
+      "label": "2nd week December 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-12-W2.pdf",
+      "status": "downloaded",
+      "sha256": "9fbefd417200cb079184849579504953ab14c3e497403d61bcecf8d244f74cbf",
+      "bytes": 693899
+    },
+    {
+      "report": "DCSB-WRP-2022-12-W3",
+      "label": "3rd week December 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-12-W3.pdf",
+      "status": "downloaded",
+      "sha256": "73b2cf7e4debe8c329ec54c6c69319cb723b3f67a171764b63d42bf3b2b3993c",
+      "bytes": 695026
+    },
+    {
+      "report": "DCSB-WRP-2022-12-W4",
+      "label": "4th week December 2022",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2022-12-W4.pdf",
+      "status": "downloaded",
+      "sha256": "e06425c45669d2dc0e1065248a73bd5f8867fcb6ae16f0e2645f9fa4939f4ed9",
+      "bytes": 697166
+    },
+    {
+      "report": "DCSB-WRP-2023-01-W1",
+      "label": "1st week January 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-01-W1.pdf",
+      "status": "downloaded",
+      "sha256": "b121648614533cbd2229dee77b1b2483e0da85aa1f213116c0fd0a1373827b38",
+      "bytes": 693722
+    },
+    {
+      "report": "DCSB-WRP-2023-01-W2",
+      "label": "2nd week January 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-01-W2.pdf",
+      "status": "downloaded",
+      "sha256": "850566fe1b8a33cf5d1df9a4df44e641c2ebb077397a45bde75cfb48cbe25af5",
+      "bytes": 702004
+    },
+    {
+      "report": "DCSB-WRP-2023-01-W3",
+      "label": "3rd week January 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-01-W3.pdf",
+      "status": "downloaded",
+      "sha256": "623dfc5a887de68f72594f1ea547d50545c28608e64118dd37fecf5d0d7bf547",
+      "bytes": 701395
+    },
+    {
+      "report": "DCSB-WRP-2023-01-W4",
+      "label": "4th week January 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-01-W4.pdf",
+      "status": "downloaded",
+      "sha256": "8ea9f1333e585b1c57d7fdb60de35c1be021ff555d5e2d705b24e72672511869",
+      "bytes": 705372
+    },
+    {
+      "report": "DCSB-WRP-2023-02-W1",
+      "label": "1st week February 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-02-W1.pdf",
+      "status": "downloaded",
+      "sha256": "90ae481012625b40f55a645077c82d81b8244af6b63613377f407dc2511dbc1d",
+      "bytes": 197354
+    },
+    {
+      "report": "DCSB-WRP-2023-02-W2",
+      "label": "2nd week February 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-02-W2.pdf",
+      "status": "downloaded",
+      "sha256": "0a8297bcf85bcd1e8405c0304375ac9814ceb495f92a494e5219e45bb5628ff0",
+      "bytes": 701434
+    },
+    {
+      "report": "DCSB-WRP-2023-02-W3",
+      "label": "3rd week February 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-02-W3.pdf",
+      "status": "downloaded",
+      "sha256": "1d9f7956d6de0348d03142cde1948b9b3d0b4b82929fcb51028a2c9568bffd20",
+      "bytes": 700842
+    },
+    {
+      "report": "DCSB-WRP-2023-02-W4",
+      "label": "4th week February 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-02-W4.pdf",
+      "status": "downloaded",
+      "sha256": "50a72217751f57e6c8c4ea435babf9bbb5934d843d26fd8b264be49b7fb22e66",
+      "bytes": 704903
+    },
+    {
+      "report": "DCSB-WRP-2023-03-W1",
+      "label": "1st week March 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-03-W1.pdf",
+      "status": "downloaded",
+      "sha256": "1a794439017e89ee9ad15eb466a397ce63279904656c79851bcb0595b8214d57",
+      "bytes": 691352
+    },
+    {
+      "report": "DCSB-WRP-2023-03-W2",
+      "label": "2nd week March 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-03-W2.pdf",
+      "status": "downloaded",
+      "sha256": "01a6e14c5ee878e28f7e1fc7dca646acd43c739880f2c3ee3a4a23668c7eb9d5",
+      "bytes": 699044
+    },
+    {
+      "report": "DCSB-WRP-2023-03-W3",
+      "label": "3rd week March 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-03-W3.pdf",
+      "status": "downloaded",
+      "sha256": "13dc0c1a9009ebbed554ccac4e0164040565aa092824287f2202aa315c4b53b1",
+      "bytes": 698347
+    },
+    {
+      "report": "DCSB-WRP-2023-03-W4",
+      "label": "4th week March 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-03-W4.pdf",
+      "status": "downloaded",
+      "sha256": "80c0592ae0332fe7bd01d5842cd5e89b72e08a8821bd5a9f399036f9f7e05b83",
+      "bytes": 700233
+    },
+    {
+      "report": "DCSB-WRP-2023-04-W1",
+      "label": "1st week April 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-04-W1.pdf",
+      "status": "downloaded",
+      "sha256": "3055783a7eee65484950e90fe9a9e4ef14725f1ab1dd896709b3575abcb6c900",
+      "bytes": 195246
+    },
+    {
+      "report": "DCSB-WRP-2023-04-W3",
+      "label": "3rd week April 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-04-W3.pdf",
+      "status": "downloaded",
+      "sha256": "73b4fdc2dc72ca5e2f05d296cf3a083e4a04e849daf25185a62abe9d35de72ea",
+      "bytes": 696802
+    },
+    {
+      "report": "DCSB-WRP-2023-04-W4",
+      "label": "4th week April 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-04-W4.pdf",
+      "status": "downloaded",
+      "sha256": "dd11c6c9ddd1c94c9a6bb5a612af6c05a1391e35e23db4cfb56cf465f17f19df",
+      "bytes": 701292
+    },
+    {
+      "report": "DCSB-WRP-2023-05-W1",
+      "label": "1st week May 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-05-W1.pdf",
+      "status": "downloaded",
+      "sha256": "22173648e77f2eef6c46ed794c0342595ac17bfe5ed3b1f4902db7d40d3381d1",
+      "bytes": 700057
+    },
+    {
+      "report": "DCSB-WRP-2023-05-W2",
+      "label": "2nd week May 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-05-W2.pdf",
+      "status": "downloaded",
+      "sha256": "7ac012d9c488e38102ae816666f1bc2c17fadd582f32bda83732d1789f97eba7",
+      "bytes": 699151
+    },
+    {
+      "report": "DCSB-WRP-2023-05-W3",
+      "label": "3rd week May 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-05-W3.pdf",
+      "status": "downloaded",
+      "sha256": "ae85778992efe1261d589d4c8b278842c64dea13d3bd9bddd51a4935613fda05",
+      "bytes": 698606
+    },
+    {
+      "report": "DCSB-WRP-2023-05-W4",
+      "label": "4th week May 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-05-W4.pdf",
+      "status": "downloaded",
+      "sha256": "4693732709d873427ef36633af7cbee0514a531204e7712b97c3c8231ba38012",
+      "bytes": 703138
+    },
+    {
+      "report": "DCSB-WRP-2023-06-W1",
+      "label": "1st week June 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-06-W1.pdf",
+      "status": "downloaded",
+      "sha256": "f6cd477876bce10ee5507ed3fb4d277daf5b29e48622f0fafd80f807c7410446",
+      "bytes": 693085
+    },
+    {
+      "report": "DCSB-WRP-2023-06-W2",
+      "label": "2nd week June 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-06-W2.pdf",
+      "status": "downloaded",
+      "sha256": "07dd6f6de26b009093a05d5f67ba19d48bb15c69c0118b3a6806945b156f4fc7",
+      "bytes": 691811
+    },
+    {
+      "report": "DCSB-WRP-2023-06-W3",
+      "label": "3rd week June 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-06-W3.pdf",
+      "status": "downloaded",
+      "sha256": "0deaa40adf5d988067a48e2478147e53d3dacb14c817ec783a53ae4ac2e7ff80",
+      "bytes": 699474
+    },
+    {
+      "report": "DCSB-WRP-2023-06-W4",
+      "label": "4th week June 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-06-W4.pdf",
+      "status": "downloaded",
+      "sha256": "dd326caafae479ab6202411cc7c04ada1e5573b04fa2c6b4d9913ada4173760e",
+      "bytes": 703976
+    },
+    {
+      "report": "DCSB-WRP-2023-07-W1",
+      "label": "1st week July 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-07-W1.pdf",
+      "status": "downloaded",
+      "sha256": "24df19c674f08a2b108d51c15482fb0bb211e56496e0825a4811afffc11663f1",
+      "bytes": 702520
+    },
+    {
+      "report": "DCSB-WRP-2023-07-W2",
+      "label": "2nd week July 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-07-W2.pdf",
+      "status": "downloaded",
+      "sha256": "4994f6615776970727651c195769eee552b0acbca388a8a51bed7204ef280051",
+      "bytes": 693393
+    },
+    {
+      "report": "DCSB-WRP-2023-07-W3",
+      "label": "3rd week July 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-07-W3.pdf",
+      "status": "downloaded",
+      "sha256": "c20a0532bcc337bfd48ea39041d2c0b69beec62cf290070170af71bcef9a828e",
+      "bytes": 700987
+    },
+    {
+      "report": "DCSB-WRP-2023-07-W4",
+      "label": "4th week July 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-07-W4.pdf",
+      "status": "downloaded",
+      "sha256": "f06b9238f0a5d68ef03d23cee3f5f920abce42111ace9b1941325dffe323c4a8",
+      "bytes": 705216
+    },
+    {
+      "report": "DCSB-WRP-2023-08-W1",
+      "label": "1st week August 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-08-W1.pdf",
+      "status": "downloaded",
+      "sha256": "cc371049c76745c5c1de417465bc169af225211952ca9d5f7e5078557616a31f",
+      "bytes": 701686
+    },
+    {
+      "report": "DCSB-WRP-2023-08-W2",
+      "label": "2nd week August 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-08-W2.pdf",
+      "status": "downloaded",
+      "sha256": "9f6a315ed21eaed657d580d98888a2986e12d846fcaa5da5144d30b400f28dab",
+      "bytes": 699612
+    },
+    {
+      "report": "DCSB-WRP-2023-08-W3",
+      "label": "3rd week August 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-08-W3.pdf",
+      "status": "downloaded",
+      "sha256": "50a1e61181b7c1945af97b27dc6f0c282cc5269a4770771c43bb255638a95893",
+      "bytes": 699340
+    },
+    {
+      "report": "DCSB-WRP-2023-08-W4",
+      "label": "4th week August 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-08-W4.pdf",
+      "status": "downloaded",
+      "sha256": "e23ce90116285f657c78d993b2753ca695f17df8b4d5a49d13b5569318ddd322",
+      "bytes": 695800
+    },
+    {
+      "report": "DCSB-WRP-2023-09-W1",
+      "label": "1st week September 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-09-W1.pdf",
+      "status": "downloaded",
+      "sha256": "35e36d931860a3cdbd9be4f447356eab378cb015f53dfbb75900949785b3b72f",
+      "bytes": 698552
+    },
+    {
+      "report": "DCSB-WRP-2023-09-W2",
+      "label": "2nd week September 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-09-W2.pdf",
+      "status": "downloaded",
+      "sha256": "d21ad55fc08a273a2521b397a11633865d74635efb3629a465bd20f9b02bb9b0",
+      "bytes": 697212
+    },
+    {
+      "report": "DCSB-WRP-2023-09-W3",
+      "label": "3rd week September 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-09-W3.pdf",
+      "status": "downloaded",
+      "sha256": "9a7bb56ab49955a4ba9c5d71f19b311428db34af26c5d152ed79c4ff6770c48a",
+      "bytes": 696774
+    },
+    {
+      "report": "DCSB-WRP-2023-09-W4",
+      "label": "4th week September 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-09-W4.pdf",
+      "status": "downloaded",
+      "sha256": "eca2f91b89e4ea54677d5efed9449745f7ffa8b6c70be015e7e12f51e5e7081e",
+      "bytes": 701623
+    },
+    {
+      "report": "DCSB-WRP-2023-10-W1",
+      "label": "1st week October 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-10-W1.pdf",
+      "status": "downloaded",
+      "sha256": "bfe343cdb1c560b9453210b3dd33b2e712d62d20d252c81e38cd51126ef9d840",
+      "bytes": 697526
+    },
+    {
+      "report": "DCSB-WRP-2023-10-W2",
+      "label": "2nd week October 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-10-W2.pdf",
+      "status": "downloaded",
+      "sha256": "a2fe4ebb1aba131a0707971ac87b510c37c5e9c95a728704f9f338656ca1bc2a",
+      "bytes": 696278
+    },
+    {
+      "report": "DCSB-WRP-2023-10-W3",
+      "label": "3rd week October 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-10-W3.pdf",
+      "status": "downloaded",
+      "sha256": "eab2eacbca19bf5ed02be45c5b5825f2e5b28b24030157af95c5e71b7a313a7a",
+      "bytes": 695986
+    },
+    {
+      "report": "DCSB-WRP-2023-10-W4",
+      "label": "4th week October 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-10-W4.pdf",
+      "status": "downloaded",
+      "sha256": "dcbdd05064a7ea0f4d983b050c6fb2de8a4647425ffe0da760e13b5bf21d1cbe",
+      "bytes": 700400
+    },
+    {
+      "report": "DCSB-WRP-2023-11-W1",
+      "label": "1st week November 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-11-W1.pdf",
+      "status": "downloaded",
+      "sha256": "838534de05cf29599528b3e6bbb66bf485d606dda9d36fe0e4686bde972d2d8d",
+      "bytes": 698801
+    },
+    {
+      "report": "DCSB-WRP-2023-11-W2",
+      "label": "2nd week November 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-11-W2.pdf",
+      "status": "downloaded",
+      "sha256": "e8097b7d4f4a68fb683c6e5d5573b0725cca1c79cfde1d2f4c7478c1314bf2c7",
+      "bytes": 697204
+    },
+    {
+      "report": "DCSB-WRP-2023-11-W3",
+      "label": "3rd week November 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-11-W3.pdf",
+      "status": "downloaded",
+      "sha256": "02914d878524a283fcbca966d4f9b70c9bcad0e0e92de298ed2c5c68c46c8e95",
+      "bytes": 697012
+    },
+    {
+      "report": "DCSB-WRP-2023-11-W4",
+      "label": "4th week November 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-11-W4.pdf",
+      "status": "downloaded",
+      "sha256": "451b2d646630e10fbd60c92341b9b8b7a23ffa0387ee57c42d2be04d97045ccb",
+      "bytes": 701490
+    },
+    {
+      "report": "DCSB-WRP-2023-12-W1",
+      "label": "1st week December 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-12-W1.pdf",
+      "status": "downloaded",
+      "sha256": "5306824607daf8c9989aa5e18d58e74ffe23644f743c0a64c0c87c87e622fc0a",
+      "bytes": 697124
+    },
+    {
+      "report": "DCSB-WRP-2023-12-W2",
+      "label": "2nd week December 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-12-W2.pdf",
+      "status": "downloaded",
+      "sha256": "c2a6c5f53bb790f2a1a816da88d029a55ed6920d03e47ed1211fef3eaa787884",
+      "bytes": 695861
+    },
+    {
+      "report": "DCSB-WRP-2023-12-W3",
+      "label": "3rd week December 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-12-W3.pdf",
+      "status": "downloaded",
+      "sha256": "d6f2a283828243c3f0eecbdeb4e3c7122396543e1fe47c5f38933a9a4346f0a4",
+      "bytes": 695809
+    },
+    {
+      "report": "DCSB-WRP-2023-12-W4",
+      "label": "4th week December 2023",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2023-12-W4.pdf",
+      "status": "downloaded",
+      "sha256": "88bb0f66b61e5cdb840d7e1f99c81ec3e509ca2d0d947922b6414f2de3127256",
+      "bytes": 692887
+    },
+    {
+      "report": "DCSB-WRP-2024-01-W1",
+      "label": "1st week January 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-01-W1.pdf",
+      "status": "downloaded",
+      "sha256": "15864d73bd9f129da59cc639b5cc0ac37fa4bb5c77b4d4b232ffdf1866d32fc3",
+      "bytes": 702211
+    },
+    {
+      "report": "DCSB-WRP-2024-01-W2",
+      "label": "2nd week January 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-01-W2.pdf",
+      "status": "downloaded",
+      "sha256": "0e640ba2080da5e5002e8f1a30667aa8e8cc9ddd695e4882d1302c2e396d4dce",
+      "bytes": 700681
+    },
+    {
+      "report": "DCSB-WRP-2024-01-W3",
+      "label": "3rd week January 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-01-W3.pdf",
+      "status": "downloaded",
+      "sha256": "b782a5386fa6ab8554e06968718c0519d2b8b3c7df58b16c4b1cba4194e29b86",
+      "bytes": 702494
+    },
+    {
+      "report": "DCSB-WRP-2024-01-W4",
+      "label": "4th week January 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-01-W4.pdf",
+      "status": "downloaded",
+      "sha256": "3134420a86be13effae5d05dfd0703af6eb635c229f67a3e62ca53e0c38f4ca6",
+      "bytes": 705284
+    },
+    {
+      "report": "DCSB-WRP-2024-02-W1",
+      "label": "1st week February 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-02-W1.pdf",
+      "status": "downloaded",
+      "sha256": "ec6299a9fb66f28b0a2713803961fb3a9f63e1364c2786f11c7799a62494b8c4",
+      "bytes": 703064
+    },
+    {
+      "report": "DCSB-WRP-2024-02-W2",
+      "label": "2nd week February 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-02-W2.pdf",
+      "status": "downloaded",
+      "sha256": "a7c45229c21e986d045099a8ec0e25cf38108179b044f086fbaaf9c91ab50927",
+      "bytes": 700394
+    },
+    {
+      "report": "DCSB-WRP-2024-02-W3",
+      "label": "3rd week February 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-02-W3.pdf",
+      "status": "downloaded",
+      "sha256": "e7738a7daf503732d00dba2529f2a8e5af7dc2d2b21c45471b2988bd8b1261f5",
+      "bytes": 702349
+    },
+    {
+      "report": "DCSB-WRP-2024-02-W4",
+      "label": "4th week February 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-02-W4.pdf",
+      "status": "downloaded",
+      "sha256": "5d6c9a297e6ce59bb95576fb80e5ac13c63c8b18a6bc5c30efae9b825b493d48",
+      "bytes": 703203
+    },
+    {
+      "report": "DCSB-WRP-2024-03-W1",
+      "label": "1st week March 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-03-W1.pdf",
+      "status": "downloaded",
+      "sha256": "70559fbd860cd248b2f10862dde39cf917edaafea052eacb306687cef0dd99b2",
+      "bytes": 700481
+    },
+    {
+      "report": "DCSB-WRP-2024-03-W2",
+      "label": "2nd week March 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-03-W2.pdf",
+      "status": "downloaded",
+      "sha256": "25a73cf116bcf6ebec5db40d91238dc16e2e3aec7431f0841de2acc4265196b3",
+      "bytes": 698021
+    },
+    {
+      "report": "DCSB-WRP-2024-03-W3",
+      "label": "3rd week March 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-03-W3.pdf",
+      "status": "downloaded",
+      "sha256": "7ced4ec63a9b7d6b8b8d0f4c1ab604839329ff6678c5aebbb09f41ca4ce25dac",
+      "bytes": 694246
+    },
+    {
+      "report": "DCSB-WRP-2024-03-W4",
+      "label": "4th week March 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-03-W4.pdf",
+      "status": "downloaded",
+      "sha256": "4420266428a0add6a09042568e61df1a18348aa1e80c5e3cb42b12765c5cf663",
+      "bytes": 698009
+    },
+    {
+      "report": "DCSB-WRP-2024-04-W1",
+      "label": "1st week April 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-04-W1.pdf",
+      "status": "downloaded",
+      "sha256": "b8e6b689e28f8fbbbf572ad3eadc971b91bf1f01ea2c3f3c1a8dda97a747227b",
+      "bytes": 698093
+    },
+    {
+      "report": "DCSB-WRP-2024-04-W2",
+      "label": "2nd week April 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-04-W2.pdf",
+      "status": "downloaded",
+      "sha256": "8354230be71f4938949196949443f5bea5a8d4c60eb2221ab0e4fef5386bd882",
+      "bytes": 696489
+    },
+    {
+      "report": "DCSB-WRP-2024-04-W3",
+      "label": "3rd week April 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-04-W3.pdf",
+      "status": "downloaded",
+      "sha256": "511abadda3bc5dc9bd25ec43bcb888d3f8c35324bfcae2ed47064f7fe5a0446f",
+      "bytes": 692587
+    },
+    {
+      "report": "DCSB-WRP-2024-04-W4",
+      "label": "4th week April 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-04-W4.pdf",
+      "status": "downloaded",
+      "sha256": "e9516da2df4280298dfc1e348b2e51d8403d794b1e051bde46b7762c835a41f2",
+      "bytes": 699225
+    },
+    {
+      "report": "DCSB-WRP-2024-05-W1",
+      "label": "1st week May 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-05-W1.pdf",
+      "status": "downloaded",
+      "sha256": "d7ab105e32362cfd5bb56cc1877a9426522bee9cf27f28aec584b8c2eec1e88d",
+      "bytes": 699893
+    },
+    {
+      "report": "DCSB-WRP-2024-05-W2",
+      "label": "2nd week May 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-05-W2.pdf",
+      "status": "downloaded",
+      "sha256": "be1daec26ae7184d71413f8d77416cbb32362360b83906ad5301ad8dc3983f13",
+      "bytes": 690201
+    },
+    {
+      "report": "DCSB-WRP-2024-05-W3",
+      "label": "3rd week May 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-05-W3.pdf",
+      "status": "downloaded",
+      "sha256": "eb3c59b84d5fe91163bfd4401621b5ca0cde02d0622244a7146d432be1a01a66",
+      "bytes": 692034
+    },
+    {
+      "report": "DCSB-WRP-2024-05-W4",
+      "label": "4th week May 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-05-W4.pdf",
+      "status": "downloaded",
+      "sha256": "d48a233c2b8974b614a1699b32ff0c5c42df71984b7e7f64b9b76e10bdfcb1ec",
+      "bytes": 702810
+    },
+    {
+      "report": "DCSB-WRP-2024-06-W1",
+      "label": "1st week June 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-06-W1.pdf",
+      "status": "downloaded",
+      "sha256": "0396e3a83d4e33539b81c6f9a5c985f8d1342052cac5b4e156c0e0d018a5166c",
+      "bytes": 694040
+    },
+    {
+      "report": "DCSB-WRP-2024-06-W2",
+      "label": "2nd week June 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-06-W2.pdf",
+      "status": "downloaded",
+      "sha256": "d5906b9cf0cb3274ee86d2ba1f8983f5d9f79458d354c2634235c8e0ffd947ad",
+      "bytes": 691083
+    },
+    {
+      "report": "DCSB-WRP-2024-06-W3",
+      "label": "3rd week June 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-06-W3.pdf",
+      "status": "downloaded",
+      "sha256": "042be07528c1388a7ef648db41f03f59bc355371108c4541dfbce89988706a5f",
+      "bytes": 693099
+    },
+    {
+      "report": "DCSB-WRP-2024-06-W4",
+      "label": "4th week June 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-06-W4.pdf",
+      "status": "downloaded",
+      "sha256": "49e342924ccbe76bc72a27eb52712b709e501a6f6d778b1f70d566342b7ad988",
+      "bytes": 306417
+    },
+    {
+      "report": "DCSB-WRP-2024-07-W1",
+      "label": "1st week July 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-07-W1.pdf",
+      "status": "downloaded",
+      "sha256": "7e1ff705d67b46ba0f82995f12c2ff800531924f08f9bc20c280f8e11399bf67",
+      "bytes": 306880
+    },
+    {
+      "report": "DCSB-WRP-2024-07-W2",
+      "label": "2nd week July 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-07-W2.pdf",
+      "status": "downloaded",
+      "sha256": "1c135a8395a3b578efd93182445d597feb468de491bc24edf02425d0ebba7f8f",
+      "bytes": 305649
+    },
+    {
+      "report": "DCSB-WRP-2024-07-W3",
+      "label": "3rd week July 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-07-W3.pdf",
+      "status": "downloaded",
+      "sha256": "74714afdda00494abf506b84ecb94b25f022be8991739997afad2f34635e4bce",
+      "bytes": 306728
+    },
+    {
+      "report": "DCSB-WRP-2024-07-W4",
+      "label": "4th week July 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-07-W4.pdf",
+      "status": "downloaded",
+      "sha256": "2151f1dcf323bab0001525947a90c1a59eec58c090cbe49631e37b4472800f2f",
+      "bytes": 695360
+    },
+    {
+      "report": "DCSB-WRP-2024-08-W1",
+      "label": "1st week August 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-08-W1.pdf",
+      "status": "downloaded",
+      "sha256": "3800b0069ea17d5878f4c4004a68f2b401208082c60d69ca7101cfef8eda847c",
+      "bytes": 693692
+    },
+    {
+      "report": "DCSB-WRP-2024-08-W2",
+      "label": "2nd week August 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-08-W2.pdf",
+      "status": "downloaded",
+      "sha256": "7ac6c0849e93b11d1d0f26f1eb2391a10d530f74eb203bf0e3dedc39939f8ffd",
+      "bytes": 690687
+    },
+    {
+      "report": "DCSB-WRP-2024-08-W3",
+      "label": "3rd week August 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-08-W3.pdf",
+      "status": "downloaded",
+      "sha256": "99877ac3ebf22a6a53863bd602ff15d282b7902b46bfab1afb03b9601efaf101",
+      "bytes": 692652
+    },
+    {
+      "report": "DCSB-WRP-2024-08-W4",
+      "label": "4th week August 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-08-W4.pdf",
+      "status": "downloaded",
+      "sha256": "285ec29b1e12d0169dbef7a3584f6cbb3d3126960fc0b8ab9a6ae4e26815e4ad",
+      "bytes": 693556
+    },
+    {
+      "report": "DCSB-WRP-2024-09-W1",
+      "label": "1st week September 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-09-W1.pdf",
+      "status": "downloaded",
+      "sha256": "314ec1df200a8154818ac7a3e385e751cd879551e71411abca3194e9938130ec",
+      "bytes": 697847
+    },
+    {
+      "report": "DCSB-WRP-2024-09-W2",
+      "label": "2nd week September 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-09-W2.pdf",
+      "status": "downloaded",
+      "sha256": "702671618e0276b82eb20816f10771818aac0dd61c97d6541fb7238e0634b17a",
+      "bytes": 696872
+    },
+    {
+      "report": "DCSB-WRP-2024-09-W3",
+      "label": "3rd week September 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-09-W3.pdf",
+      "status": "downloaded",
+      "sha256": "bebf59204545d33312a921220ed15b6235ad4e5bcfd0d0251bf77294430b743d",
+      "bytes": 698245
+    },
+    {
+      "report": "DCSB-WRP-2024-09-W4",
+      "label": "4th week September 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-09-W4.pdf",
+      "status": "downloaded",
+      "sha256": "cc6b55148b9e6b941edad6760d258da2ef61cb7a9d54a73bfcb6776cb589247c",
+      "bytes": 691261
+    },
+    {
+      "report": "DCSB-WRP-2024-10-W1",
+      "label": "1st week October 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-10-W1.pdf",
+      "status": "downloaded",
+      "sha256": "042d24ff299821360840bab4f2d1187f5b5035f3099de84208080e054362d23a",
+      "bytes": 689190
+    },
+    {
+      "report": "DCSB-WRP-2024-10-W2",
+      "label": "2nd week October 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-10-W2.pdf",
+      "status": "downloaded",
+      "sha256": "2546b18fa572d80988c164714112064fb49a2c162a9d116a2f2f45838d8b75cb",
+      "bytes": 687658
+    },
+    {
+      "report": "DCSB-WRP-2024-10-W3",
+      "label": "3rd week October 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-10-W3.pdf",
+      "status": "downloaded",
+      "sha256": "9416d8364655fa901837fdd43c91b8fab95d2c97a9c0e13e44d3809e73879143",
+      "bytes": 689534
+    },
+    {
+      "report": "DCSB-WRP-2024-10-W4",
+      "label": "4th week October 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-10-W4.pdf",
+      "status": "downloaded",
+      "sha256": "869dfa99e9ab6c4f0677e5107d20d51d7da4bfefc834daa6c6d19def06236a25",
+      "bytes": 690400
+    },
+    {
+      "report": "DCSB-WRP-2024-11-W1",
+      "label": "1st week November 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-11-W1.pdf",
+      "status": "downloaded",
+      "sha256": "f11673fb1ca23462279069ea3385ceaa2619a34447c9440196b448fa8022b65c",
+      "bytes": 690626
+    },
+    {
+      "report": "DCSB-WRP-2024-11-W2",
+      "label": "2nd week November 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-11-W2.pdf",
+      "status": "downloaded",
+      "sha256": "611367bebb41686035807bc717c779780d5c6c3a047df9200970452385c93035",
+      "bytes": 688532
+    },
+    {
+      "report": "DCSB-WRP-2024-11-W3",
+      "label": "3rd week November 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-11-W3.pdf",
+      "status": "downloaded",
+      "sha256": "fa26da8032a4163f3a24000632b97b86a6d9cb394477fac2c60a671fc924f779",
+      "bytes": 690635
+    },
+    {
+      "report": "DCSB-WRP-2024-11-W4",
+      "label": "4th week November 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-11-W4.pdf",
+      "status": "downloaded",
+      "sha256": "3f1d1ac2ba20c21228dc6236590062fa3e8c9badcd1d67fd0b5b31d8c1c0d827",
+      "bytes": 691484
+    },
+    {
+      "report": "DCSB-WRP-2024-12-W1",
+      "label": "1st week December 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-12-W1.pdf",
+      "status": "downloaded",
+      "sha256": "7bf9989913bbfc3282181613762c1587e87595b2750fe647eced4e8ca9e196de",
+      "bytes": 688879
+    },
+    {
+      "report": "DCSB-WRP-2024-12-W2",
+      "label": "2nd week December 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-12-W2.pdf",
+      "status": "downloaded",
+      "sha256": "54a69f736f28644871f263f57bcd83ed1fb9342a8cb17c02b67f7b5e699ee40e",
+      "bytes": 687364
+    },
+    {
+      "report": "DCSB-WRP-2024-12-W3",
+      "label": "3rd week December 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-12-W3.pdf",
+      "status": "downloaded",
+      "sha256": "ca3a30b689e94c7752114b7f992c07d8f9372949f81e3ea09b04baf44066a213",
+      "bytes": 689325
+    },
+    {
+      "report": "DCSB-WRP-2024-12-W4",
+      "label": "4th week December 2024",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2024-12-W4.pdf",
+      "status": "downloaded",
+      "sha256": "ca304d1834ad1b20a0f5a48ca4b9c2c164dbbc370145d1e1281bcc56054e305c",
+      "bytes": 690249
+    },
+    {
+      "report": "DCSB-WRP-2025-01-W1",
+      "label": "1st week January 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-01-W1.pdf",
+      "status": "downloaded",
+      "sha256": "e3ea9ee566cf7bf122fa85dcacaf6bac2a2ea1a0da51a7ed75733fbb8683b05b",
+      "bytes": 694949
+    },
+    {
+      "report": "DCSB-WRP-2025-01-W2",
+      "label": "2nd week January 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-01-W2.pdf",
+      "status": "downloaded",
+      "sha256": "f1810feed5cde489ab50e3a562ac85ec1985ae978c12b85aa931823e04095586",
+      "bytes": 693469
+    },
+    {
+      "report": "DCSB-WRP-2025-01-W3",
+      "label": "3rd week January 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-01-W3.pdf",
+      "status": "downloaded",
+      "sha256": "88619469076fe8e5fe8f02be1f5b42e3722a7fb76ceeff569ddbb1c617abe5bb",
+      "bytes": 695187
+    },
+    {
+      "report": "DCSB-WRP-2025-01-W4",
+      "label": "4th week January 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-01-W4.pdf",
+      "status": "downloaded",
+      "sha256": "4c31a05afc30fe98a89c7491a7d1dc8cab34a54428751622eb71f57e4fbe604c",
+      "bytes": 697398
+    },
+    {
+      "report": "DCSB-WRP-2025-02-W1",
+      "label": "1st week February 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-02-W1.pdf",
+      "status": "downloaded",
+      "sha256": "94fe87722525287136aefda47cf5234a13f233b468d2c3f83637c9c98fed74e7",
+      "bytes": 695649
+    },
+    {
+      "report": "DCSB-WRP-2025-02-W2",
+      "label": "2nd week February 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-02-W2.pdf",
+      "status": "downloaded",
+      "sha256": "b77110cabb3e4de00fadf00711c1628388ea958e173cdae2b9c31982f0cd623c",
+      "bytes": 693095
+    },
+    {
+      "report": "DCSB-WRP-2025-02-W3",
+      "label": "3rd week February 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-02-W3.pdf",
+      "status": "downloaded",
+      "sha256": "87b4ac4f44a913e3ba84b71f2ed20d9a9f07e9fb7b08c8bc7306c97975c6e62c",
+      "bytes": 694822
+    },
+    {
+      "report": "DCSB-WRP-2025-02-W4",
+      "label": "4th week February 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-02-W4.pdf",
+      "status": "downloaded",
+      "sha256": "e485153a22949704b248bfd74237bdb290dc905e22fe7c4f911b3b8341c7636c",
+      "bytes": 697059
+    },
+    {
+      "report": "DCSB-WRP-2025-03-W1",
+      "label": "1st week March 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-03-W1.pdf",
+      "status": "downloaded",
+      "sha256": "de1166f9532f135e280cd914490c2e0f127bcb002206925ce30a94b229413fd9",
+      "bytes": 693205
+    },
+    {
+      "report": "DCSB-WRP-2025-03-W2",
+      "label": "2nd week March 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-03-W2.pdf",
+      "status": "downloaded",
+      "sha256": "fd6d78865a89c73ecd87eea19dfa2180c9c909dd27cf7bd9d2709a0db7c7a083",
+      "bytes": 690888
+    },
+    {
+      "report": "DCSB-WRP-2025-03-W3",
+      "label": "3rd week March 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-03-W3.pdf",
+      "status": "downloaded",
+      "sha256": "98763573f8e4191d43a7f70ef3efa888f81826ede0a8433bb53bf810ebacc988",
+      "bytes": 692486
+    },
+    {
+      "report": "DCSB-WRP-2025-03-W4",
+      "label": "4th week March 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-03-W4.pdf",
+      "status": "downloaded",
+      "sha256": "a2dd0047ccbd0f947284f562641a37feab5574abf3d65e70533454932b2c3884",
+      "bytes": 692252
+    },
+    {
+      "report": "DCSB-WRP-2025-04-W1",
+      "label": "1st week April 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-04-W1.pdf",
+      "status": "downloaded",
+      "sha256": "cd479150dfffad1fec5678b70f8226f21090a49f8db5771519c4d21c7b2779e0",
+      "bytes": 690782
+    },
+    {
+      "report": "DCSB-WRP-2025-04-W2",
+      "label": "2nd week April 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-04-W2.pdf",
+      "status": "downloaded",
+      "sha256": "d7d5c5ecb7be15a74825e8d88ac41ee49e1365f7f2ade190cc8bed559e1ff1cc",
+      "bytes": 689261
+    },
+    {
+      "report": "DCSB-WRP-2025-04-W3",
+      "label": "3rd week April 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-04-W3.pdf",
+      "status": "downloaded",
+      "sha256": "cb54a80152ba8b2b2f2272bcb86495558826b6e36f8686a16a98522a236076ae",
+      "bytes": 690970
+    },
+    {
+      "report": "DCSB-WRP-2025-04-W4",
+      "label": "4th week April 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-04-W4.pdf",
+      "status": "downloaded",
+      "sha256": "802ac2daa4f6c51b7ea69cc60206b24f3a4a7b31a427505863ff1e4c607b78d1",
+      "bytes": 693485
+    },
+    {
+      "report": "DCSB-WRP-2025-05-W1",
+      "label": "1st week May 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-05-W1.pdf",
+      "status": "downloaded",
+      "sha256": "2ab99dae5afdf33e36be3b4b677d04073793d443b439f26613de036721b93925",
+      "bytes": 700310
+    },
+    {
+      "report": "DCSB-WRP-2025-05-W2",
+      "label": "2nd week May 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-05-W2.pdf",
+      "status": "downloaded",
+      "sha256": "8a958e0e1ca7f293620508066a045c20e80bfaf6a1c71523b9e94c165e949fa5",
+      "bytes": 698760
+    },
+    {
+      "report": "DCSB-WRP-2025-05-W3",
+      "label": "3rd week May 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-05-W3.pdf",
+      "status": "downloaded",
+      "sha256": "6aebd833dc1652cde91c90b5d7fed676f0339c680a2dfee2e50b29584019c97c",
+      "bytes": 692670
+    },
+    {
+      "report": "DCSB-WRP-2025-05-W4",
+      "label": "4th week May 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-05-W4.pdf",
+      "status": "downloaded",
+      "sha256": "2d4586ab7b3dad2beeb07dad5c743e4e613973f3ed7512e4cc6e4ac6dfc551b1",
+      "bytes": 695053
+    },
+    {
+      "report": "DCSB-WRP-2025-06-W1",
+      "label": "1st week June 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-06-W1.pdf",
+      "status": "downloaded",
+      "sha256": "d922f9db7a1e1b3109522d39e1931262b3cee181aeb2b8cc2659b9c1a6091e4d",
+      "bytes": 694385
+    },
+    {
+      "report": "DCSB-WRP-2025-06-W2",
+      "label": "2nd week June 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-06-W2.pdf",
+      "status": "downloaded",
+      "sha256": "a3c7da8474b6cc42c44b499ef2f3ca66b50121da290ffc2f4993a966f0f41108",
+      "bytes": 691811
+    },
+    {
+      "report": "DCSB-WRP-2025-06-W3",
+      "label": "3rd week June 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-06-W3.pdf",
+      "status": "downloaded",
+      "sha256": "026e8b243ba51fb3b8b317de20d355a40b06827474537ec9f56f40d457b1e2ca",
+      "bytes": 693503
+    },
+    {
+      "report": "DCSB-WRP-2025-06-W4",
+      "label": "4th week June 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-06-W4.pdf",
+      "status": "downloaded",
+      "sha256": "aa234bac8cb5baae34a53e3ff83d3b522ecc36f11ca20e908e3164996ed088a7",
+      "bytes": 695953
+    },
+    {
+      "report": "DCSB-WRP-2025-07-W1",
+      "label": "1st week July 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-07-W1.pdf",
+      "status": "downloaded",
+      "sha256": "03c56c53c197fd6b7fb8cda668405bb8568311fc9bd25a81a5541f6cab6ea1d4",
+      "bytes": 694972
+    },
+    {
+      "report": "DCSB-WRP-2025-07-W2",
+      "label": "2nd week July 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-07-W2.pdf",
+      "status": "downloaded",
+      "sha256": "d59db40117c3b7f28f6c33cd837b32684ee76bc0bb3782b7564c025a7367b4ad",
+      "bytes": 693459
+    },
+    {
+      "report": "DCSB-WRP-2025-07-W3",
+      "label": "3rd week July 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-07-W3.pdf",
+      "status": "downloaded",
+      "sha256": "d7a80519738ac78886710dca654a0f603a0ccc9a5921057b2f0a4ee3e5221607",
+      "bytes": 695120
+    },
+    {
+      "report": "DCSB-WRP-2025-07-W4",
+      "label": "4th week July 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-07-W4.pdf",
+      "status": "downloaded",
+      "sha256": "e42a2348901dd3aedf7e32bac02347fc8d0b0e6e32555c34850380d91ff0325d",
+      "bytes": 697400
+    },
+    {
+      "report": "DCSB-WRP-2025-08-W1",
+      "label": "1st week August 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-08-W1.pdf",
+      "status": "downloaded",
+      "sha256": "465d4dc8864392badac6587e9b0fef4fbca8e343fd0d1ff8a2a38794de5796b8",
+      "bytes": 694215
+    },
+    {
+      "report": "DCSB-WRP-2025-08-W2",
+      "label": "2nd week August 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-08-W2.pdf",
+      "status": "downloaded",
+      "sha256": "6a4f79e58f6fe661b08ccf9e6bf9dc7935fc71841c9d1449b73b198b0d9cd7bb",
+      "bytes": 691576
+    },
+    {
+      "report": "DCSB-WRP-2025-08-W3",
+      "label": "3rd week August 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-08-W3.pdf",
+      "status": "downloaded",
+      "sha256": "c43092d6fc90c6b56a1004b23b5608e077fc26eb33e68bfab4bbf50610e29e6e",
+      "bytes": 693599
+    },
+    {
+      "report": "DCSB-WRP-2025-08-W4",
+      "label": "4th week August 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-08-W4.pdf",
+      "status": "downloaded",
+      "sha256": "6407437f88e8a3564e6ade9ef58ffa16ad4bdcb306c4cc10f51dadb8f2595ecc",
+      "bytes": 696028
+    },
+    {
+      "report": "DCSB-WRP-2025-09-W1",
+      "label": "1st week September 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-09-W1.pdf",
+      "status": "downloaded",
+      "sha256": "6fc25240a96ae1eb0499898db97b89884c761e59cd430e3de9e787411633f871",
+      "bytes": 691028
+    },
+    {
+      "report": "DCSB-WRP-2025-09-W2",
+      "label": "2nd week September 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-09-W2.pdf",
+      "status": "downloaded",
+      "sha256": "4f6d18e26fa4e00e3a3cfa10f1c1b6f67803d619b660a3d730fe6503c1097230",
+      "bytes": 689413
+    },
+    {
+      "report": "DCSB-WRP-2025-09-W3",
+      "label": "3rd week September 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-09-W3.pdf",
+      "status": "downloaded",
+      "sha256": "17f3bbaec5f79bb0d16bd9a2282a4db0accd92f2ae4596bd4d9c25044255853b",
+      "bytes": 691138
+    },
+    {
+      "report": "DCSB-WRP-2025-09-W4",
+      "label": "4th week September 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-09-W4.pdf",
+      "status": "downloaded",
+      "sha256": "86e38bccb5f43f93f99133add8e34ebb12eec02c7be57042ea0ed87f7d1867c5",
+      "bytes": 693903
+    },
+    {
+      "report": "DCSB-WRP-2025-10-W1",
+      "label": "1st week October 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-10-W1.pdf",
+      "status": "downloaded",
+      "sha256": "ee45fbe5143d70337a15b0cc05d6968378a55dffb5008aca605a9e62e3637d32",
+      "bytes": 690044
+    },
+    {
+      "report": "DCSB-WRP-2025-10-W2",
+      "label": "2nd week October 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-10-W2.pdf",
+      "status": "downloaded",
+      "sha256": "9c9cf276b3709ad241cbca57f3f7927e63b3199d87eb1890964fbe06046cc8e2",
+      "bytes": 688512
+    },
+    {
+      "report": "DCSB-WRP-2025-10-W3",
+      "label": "3rd week October 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-10-W3.pdf",
+      "status": "downloaded",
+      "sha256": "14c32100b523652f5593699903d7f3a25528a388cff5b758e6b9495b9a45d47b",
+      "bytes": 690325
+    },
+    {
+      "report": "DCSB-WRP-2025-10-W4",
+      "label": "4th week October 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-10-W4.pdf",
+      "status": "downloaded",
+      "sha256": "852a167b9939757ef0b0b27addffeb4a09aa7d9f1ba320861e792cf03b7bc1ae",
+      "bytes": 692944
+    },
+    {
+      "report": "DCSB-WRP-2025-11-W1",
+      "label": "1st week November 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-11-W1.pdf",
+      "status": "downloaded",
+      "sha256": "b4c9a5065be99323421f6caee8ce772315038a57f4d060e31b49d8a7a7d6b2e1",
+      "bytes": 691401
+    },
+    {
+      "report": "DCSB-WRP-2025-11-W2",
+      "label": "2nd week November 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-11-W2.pdf",
+      "status": "downloaded",
+      "sha256": "e0b5a9f9390b2ef306b35786fdf3cec8a90100cc48c63ff649833c6f18ed1514",
+      "bytes": 689350
+    },
+    {
+      "report": "DCSB-WRP-2025-11-W3",
+      "label": "3rd week November 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-11-W3.pdf",
+      "status": "downloaded",
+      "sha256": "ec4e025069ee4bd0db1f1e8b3547f6bde2a36160a0b575e0f2c3e172014ba798",
+      "bytes": 691260
+    },
+    {
+      "report": "DCSB-WRP-2025-11-W4",
+      "label": "4th week November 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-11-W4.pdf",
+      "status": "downloaded",
+      "sha256": "f0e030163a702b6163b64d474c3630ae8e20cd106b0dc02e188f7e338d8ad23e",
+      "bytes": 693895
+    },
+    {
+      "report": "DCSB-WRP-2025-12-W1",
+      "label": "1st week December 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-12-W1.pdf",
+      "status": "downloaded",
+      "sha256": "f9e6090ea56235fa5c3eaa6a3d0b51b3c4592666e7c90659576f1627f95fd8ad",
+      "bytes": 689867
+    },
+    {
+      "report": "DCSB-WRP-2025-12-W2",
+      "label": "2nd week December 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-12-W2.pdf",
+      "status": "downloaded",
+      "sha256": "d4bc762a7506e8689fcfc52e22e20306b36ceb57c4259bbc9df156b5084cf52d",
+      "bytes": 692592
+    },
+    {
+      "report": "DCSB-WRP-2025-12-W3",
+      "label": "3rd week December 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-12-W3.pdf",
+      "status": "downloaded",
+      "sha256": "f83a011acaca4b96bdf57c8796f211c577c58e69a14b49b103aa7ced43ac1560",
+      "bytes": 697831
+    },
+    {
+      "report": "DCSB-WRP-2025-12-W4",
+      "label": "4th week December 2025",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2025-12-W4.pdf",
+      "status": "downloaded",
+      "sha256": "3169ee59d05b30396798c77a0b541ae4c8911c8f84cd971745d4cbdace9817d4",
+      "bytes": 692736
+    },
+    {
+      "report": "DCSB-WRP-2026-01-W1",
+      "label": "1st week January 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-01-W1.pdf",
+      "status": "downloaded",
+      "sha256": "e2ae21455d07156d799e66107751f101fa5bad36e8f901e15df2e76fed562e90",
+      "bytes": 692031
+    },
+    {
+      "report": "DCSB-WRP-2026-01-W2",
+      "label": "2nd week January 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-01-W2.pdf",
+      "status": "downloaded",
+      "sha256": "f76c5e5aa9dad3da5df767a1b2350b126a9c765b01f4b9a1dccf3921c6e8d10f",
+      "bytes": 686439
+    },
+    {
+      "report": "DCSB-WRP-2026-01-W3",
+      "label": "3rd week January 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-01-W3.pdf",
+      "status": "downloaded",
+      "sha256": "a57c837d2c41e40442def6d39deb8e05a6cfdc89e35ca17af5b2583fffd2bd0e",
+      "bytes": 691133
+    },
+    {
+      "report": "DCSB-WRP-2026-01-W4",
+      "label": "4th week January 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-01-W4.pdf",
+      "status": "downloaded",
+      "sha256": "a9aa6c5704865fe9c508c79baf8b75773a4a36d62910f7a1ac63427f9b75642e",
+      "bytes": 693097
+    },
+    {
+      "report": "DCSB-WRP-2026-02-W1",
+      "label": "1st week February 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-02-W1.pdf",
+      "status": "downloaded",
+      "sha256": "084a8a4ac8f2ad37d230553110df653f1f8bdd4d573777f579cf6956ec98f274",
+      "bytes": 699954
+    },
+    {
+      "report": "DCSB-WRP-2026-02-W2",
+      "label": "2nd week February 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-02-W2.pdf",
+      "status": "downloaded",
+      "sha256": "cd17864365c61c6bd512bbacee91cc5cd43891418d736cc349776bc6724a1882",
+      "bytes": 688882
+    },
+    {
+      "report": "DCSB-WRP-2026-02-W3",
+      "label": "3rd week February 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-02-W3.pdf",
+      "status": "downloaded",
+      "sha256": "bcf50828dce5efc6aeabfdf1727037c8dd8c8ff5e7850be29fb14214198a41d9",
+      "bytes": 690688
+    },
+    {
+      "report": "DCSB-WRP-2026-02-W4",
+      "label": "4th week February 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-02-W4.pdf",
+      "status": "downloaded",
+      "sha256": "2803182f0c01797b318f0b6f7b94143b03a0b589c354711ad2481322158b52f6",
+      "bytes": 692740
+    },
+    {
+      "report": "DCSB-WRP-2026-03-W1",
+      "label": "1st week March 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-03-W1.pdf",
+      "status": "downloaded",
+      "sha256": "072e01198ed95360764a6646e0ada007c591d9e3b20056a5cc7c05706bd4a758",
+      "bytes": 689144
+    },
+    {
+      "report": "DCSB-WRP-2026-03-W2",
+      "label": "2nd week March 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-03-W2.pdf",
+      "status": "downloaded",
+      "sha256": "08db154ae8f5906489eef7a1a2242f8b91baf80c62f054f347c2ad8edb20fdd0",
+      "bytes": 686678
+    },
+    {
+      "report": "DCSB-WRP-2026-03-W3",
+      "label": "3rd week March 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-03-W3.pdf",
+      "status": "downloaded",
+      "sha256": "318d2c6a39b79e02cc51c78ed24f896c82418e7f9b473f4f291a4470c5fecb65",
+      "bytes": 688521
+    },
+    {
+      "report": "DCSB-WRP-2026-03-W4",
+      "label": "4th week March 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-03-W4.pdf",
+      "status": "downloaded",
+      "sha256": "331c72ab648f7403ec22ea67ae506c0b053c4975acd55cb65f81eb736779ac3f",
+      "bytes": 696372
+    },
+    {
+      "report": "DCSB-WRP-2026-04-W1",
+      "label": "1st week April 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-04-W1.pdf",
+      "status": "downloaded",
+      "sha256": "a5b5fedbfe926c71bbcfb13d67bd7a135fd0b569cb29531de2ed59eb57c871db",
+      "bytes": 686265
+    },
+    {
+      "report": "DCSB-WRP-2026-04-W2",
+      "label": "2nd week April 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-04-W2.pdf",
+      "status": "downloaded",
+      "sha256": "d251b10b59f695d59dfb8cc7978368979261df1b5112d36f516010461f39c70f",
+      "bytes": 685178
+    },
+    {
+      "report": "DCSB-WRP-2026-04-W3",
+      "label": "3rd week April 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-04-W3.pdf",
+      "status": "downloaded",
+      "sha256": "a225eba8b65cde80a71867968f4c768ffa261d7ba97111b8844111449e777c25",
+      "bytes": 687035
+    },
+    {
+      "report": "DCSB-WRP-2026-04-W4",
+      "label": "4th week April 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-04-W4.pdf",
+      "status": "downloaded",
+      "sha256": "ab8f82cd89a1811e92e111ff814a472578fca9cb5969858e72cefa8be1658de2",
+      "bytes": 689237
+    },
+    {
+      "report": "DCSB-WRP-2026-05-W1",
+      "label": "1st week May 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-05-W1.pdf",
+      "status": "downloaded",
+      "sha256": "9985fd5f324228340b706f5d494d9b69957bb1d9f710a442e3b21dfdfd783ea1",
+      "bytes": 688152
+    },
+    {
+      "report": "DCSB-WRP-2026-05-W2",
+      "label": "2nd week May 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-05-W2.pdf",
+      "status": "downloaded",
+      "sha256": "f96def8f427ef4b6aa7b8210e45e041bcdc32cc14998c3bf9406a382216d5b13",
+      "bytes": 687159
+    },
+    {
+      "report": "DCSB-WRP-2026-05-W3",
+      "label": "3rd week May 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-05-W3.pdf",
+      "status": "downloaded",
+      "sha256": "9bd2e8fc4f1590ab2d30355bc87bffedbb167679ab831237db71b88d308143d5",
+      "bytes": 688586
+    },
+    {
+      "report": "DCSB-WRP-2026-05-W4",
+      "label": "4th week May 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-05-W4.pdf",
+      "status": "downloaded",
+      "sha256": "257b9aeaab90134c8fdffb960e3a66e6e8155f21c7c8362efa14fa1022087fa4",
+      "bytes": 690968
+    },
+    {
+      "report": "DCSB-WRP-2026-06-W1",
+      "label": "1st week June 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-06-W1.pdf",
+      "status": "downloaded",
+      "sha256": "c14d67c5717635a694a2240ada17ab5bec6117d0b66ee2d8c88df9892cea8f82",
+      "bytes": 690663
+    },
+    {
+      "report": "DCSB-WRP-2026-06-W2",
+      "label": "2nd week June 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-06-W2.pdf",
+      "status": "downloaded",
+      "sha256": "845ccb4dd60fe0bd0e79e6cb36adeee1bde42f9dfe39d5597aaf7caf0404d426",
+      "bytes": 687603
+    },
+    {
+      "report": "DCSB-WRP-2026-06-W3",
+      "label": "3rd week June 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-06-W3.pdf",
+      "status": "downloaded",
+      "sha256": "40a67594a898652fe515d64215a123d36267ea06bb456e51df4fae4164593b56",
+      "bytes": 689381
+    },
+    {
+      "report": "DCSB-WRP-2026-06-W4",
+      "label": "4th week June 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-06-W4.pdf",
+      "status": "downloaded",
+      "sha256": "ec7914587d3b89cb19b1c5a4fcc594c8461459e5f9f08bd4bb8bf5bc61e0e90e",
+      "bytes": 699962
+    },
+    {
+      "report": "DCSB-WRP-2026-07-W1",
+      "label": "1st week July 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-07-W1.pdf",
+      "status": "downloaded",
+      "sha256": "3c2bd91498d3d7b42f7b801125698d1adfcd0f06ec637771da998446e0863e1e",
+      "bytes": 692125
+    },
+    {
+      "report": "DCSB-WRP-2026-07-W2",
+      "label": "2nd week July 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-07-W2.pdf",
+      "status": "downloaded",
+      "sha256": "20db1462bcd8fe56b9e9932ce553fe57338db515068be2438c966f10175c8e05",
+      "bytes": 731376
+    },
+    {
+      "report": "DCSB-WRP-2026-07-W3",
+      "label": "3rd week July 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-07-W3.pdf",
+      "status": "downloaded",
+      "sha256": "69485461e2b9dfd650a2907d858877a6288b155d4de5930d3820f3a87332979c",
+      "bytes": 734573
+    },
+    {
+      "report": "DCSB-WRP-2026-07-W4",
+      "label": "4th week July 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-07-W4.pdf",
+      "status": "downloaded",
+      "sha256": "1bb5c5436ab016d45c9938287b4ac5467dd23d986b9a63f5ced04c99b443e6ef",
+      "bytes": 304119
+    },
+    {
+      "report": "DCSB-WRP-2026-08-W1",
+      "label": "1st week August 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-08-W1.pdf",
+      "status": "downloaded",
+      "sha256": "8517a216c76c80fddaa26ff3c691885e85808affe78a762436dd6b4e65056302",
+      "bytes": 310378
+    },
+    {
+      "report": "DCSB-WRP-2026-08-W2",
+      "label": "2nd week August 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-08-W2.pdf",
+      "status": "downloaded",
+      "sha256": "44c53e794b3664ce2d5ca81945691e343611bedca356161192ed8ec79e186380",
+      "bytes": 302180
+    },
+    {
+      "report": "DCSB-WRP-2026-08-W3",
+      "label": "3rd week August 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-08-W3.pdf",
+      "status": "downloaded",
+      "sha256": "27d3fff24a53314f342d745e4413fd76cfd5b95771ddcdf38cc8b635fc580868",
+      "bytes": 302777
+    },
+    {
+      "report": "DCSB-WRP-2026-08-W4",
+      "label": "4th week August 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-08-W4.pdf",
+      "status": "downloaded",
+      "sha256": "7967101b72a3bd807392d9d3dd0b60573d17694694a89d8e2f542161969833a6",
+      "bytes": 303626
+    },
+    {
+      "report": "DCSB-WRP-2026-09-W1",
+      "label": "1st week September 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-09-W1.pdf",
+      "status": "downloaded",
+      "sha256": "5a8739b5783ef752d0eaa00603384d9d10e080e38f9b2c8e96ba8fb30d6c31be",
+      "bytes": 309423
+    },
+    {
+      "report": "DCSB-WRP-2026-09-W2",
+      "label": "2nd week September 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-09-W2.pdf",
+      "status": "downloaded",
+      "sha256": "92d9c82eb4398bb792df73f975e5f8e10aa1dddcd9d996ba386989893c3fcba5",
+      "bytes": 301463
+    },
+    {
+      "report": "DCSB-WRP-2026-09-W3",
+      "label": "3rd week September 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-09-W3.pdf",
+      "status": "downloaded",
+      "sha256": "bdf2958fd2ab9d57d57a97e269589857b6d80772bb1203eb9dc5f6427bea3d41",
+      "bytes": 301972
+    },
+    {
+      "report": "DCSB-WRP-2026-09-W4",
+      "label": "4th week September 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-09-W4.pdf",
+      "status": "downloaded",
+      "sha256": "eea328ff4287726e51a0a5f92df89027b11582d812c8c61afbf2404c772b673c",
+      "bytes": 302880
+    },
+    {
+      "report": "DCSB-WRP-2026-10-W1",
+      "label": "1st week October 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-10-W1.pdf",
+      "status": "downloaded",
+      "sha256": "db9e20ee2f7c39c4d55a23ddc0efef5a741e8ae765f4bf023f672769194c2430",
+      "bytes": 309093
+    },
+    {
+      "report": "DCSB-WRP-2026-10-W2",
+      "label": "2nd week October 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-10-W2.pdf",
+      "status": "downloaded",
+      "sha256": "c05201e0ca6a668ff604b5314a63e7b709cbc983758696371deaf9941dec8beb",
+      "bytes": 301262
+    },
+    {
+      "report": "DCSB-WRP-2026-10-W3",
+      "label": "3rd week October 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-10-W3.pdf",
+      "status": "downloaded",
+      "sha256": "e657c13ab9ea751b05dbaca8325c1c2b3ef8c9df267beb8cb84152c58ed5ffb2",
+      "bytes": 301664
+    },
+    {
+      "report": "DCSB-WRP-2026-10-W4",
+      "label": "4th week October 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-10-W4.pdf",
+      "status": "downloaded",
+      "sha256": "5a9b9205824452ef7dd922d07abaf915c6504eee8d3a415c27713a1b89ea2f09",
+      "bytes": 302584
+    },
+    {
+      "report": "DCSB-WRP-2026-11-W1",
+      "label": "1st week November 2026",
+      "url": "https://www.statistics.gov.lk/Resource/en/InflationAndPrices/retail/DCSB-WRP-2026-11-W1.pdf",
+      "status": "downloaded",
+      "sha256": "17b851f5cb90161c7f9ec79ad165c6713f0ef4eeb428c788da850f84a3fa0084",
+      "bytes": 309429
+    }
+  ]
+}
